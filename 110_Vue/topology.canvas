@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c714055fdc4409ca","type":"text","text":"Topology","x":-128,"y":-19,"width":250,"height":60},
+		{"id":"febb7a636cbcb394","type":"text","text":"Sets\n[[20231107122130_sets]]","x":220,"y":-200,"width":250,"height":60},
+		{"id":"3af4f028fad2b6fc","type":"text","text":"Integers\n[[20231107115738_construction_of_integers]]","x":220,"y":-300,"width":250,"height":57},
+		{"id":"a27b973bdf2e7cd3","type":"text","text":"Product of sets\n[[20231113111754_product_of_sets]]","x":600,"y":-200,"width":250,"height":60},
+		{"id":"13a2563fed214d7b","type":"text","text":"Functions and sets\n[[20231115200107_functions_and_sets]]","x":600,"y":-120,"width":250,"height":50},
+		{"id":"9862b6a7405dece3","type":"text","text":"Families of sets\n[[20231112203931_families_of_sets]]","x":600,"y":-273,"width":250,"height":60},
+		{"id":"f412ad6985e683c7","x":960,"y":-125,"width":250,"height":60,"type":"text","text":"Relations\n[[20231118120813_relations_and_sets]]"}
+	],
+	"edges":[
+		{"id":"757456e766e4d11f","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"febb7a636cbcb394","toSide":"left"},
+		{"id":"3af27c2aa2984116","fromNode":"febb7a636cbcb394","fromSide":"top","toNode":"3af4f028fad2b6fc","toSide":"bottom"},
+		{"id":"1319f114fc94b179","fromNode":"febb7a636cbcb394","fromSide":"right","toNode":"9862b6a7405dece3","toSide":"left"},
+		{"id":"9b0d2573ee857a43","fromNode":"febb7a636cbcb394","fromSide":"right","toNode":"a27b973bdf2e7cd3","toSide":"left"},
+		{"id":"db6936e4a03835f5","fromNode":"febb7a636cbcb394","fromSide":"right","toNode":"13a2563fed214d7b","toSide":"left"},
+		{"id":"f74b5adb09298b22","fromNode":"13a2563fed214d7b","fromSide":"right","toNode":"f412ad6985e683c7","toSide":"left"}
+	]
+}

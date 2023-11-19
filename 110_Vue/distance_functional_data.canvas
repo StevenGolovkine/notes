@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d5880d8a9372ac03","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"distance for functional data"},
+		{"id":"25cea0da7b585abb","x":-310,"y":-372,"width":250,"height":60,"type":"text","text":"using quantiles"},
+		{"id":"82c33139ae2dba52","x":-125,"y":140,"width":250,"height":60,"type":"text","text":"$p$-Schatten distance"},
+		{"id":"2c08fa87a7f7c43b","x":561,"y":140,"width":250,"height":60,"type":"text","text":"Hilbert-Schmidt distance"},
+		{"id":"f9116b81ab653b41","x":360,"y":-30,"width":250,"height":60,"type":"text","text":"Mahalanobis distance"},
+		{"id":"76f27e9a1a0ec834","x":-125,"y":-217,"width":250,"height":60,"type":"text","text":"Euclidean distance"},
+		{"id":"93fd9c41ce13457a","x":260,"y":-217,"width":250,"height":60,"type":"text","text":"weighted version"},
+		{"id":"f06a2bcae040a48f","x":60,"y":-372,"width":250,"height":60,"type":"text","text":"using derivatives"}
+	],
+	"edges":[
+		{"id":"bbb9ed985a3cfa24","fromNode":"d5880d8a9372ac03","fromSide":"top","toNode":"76f27e9a1a0ec834","toSide":"bottom"},
+		{"id":"95fddb4afa971f79","fromNode":"d5880d8a9372ac03","fromSide":"right","toNode":"f9116b81ab653b41","toSide":"left"},
+		{"id":"59e18fae64acd839","fromNode":"76f27e9a1a0ec834","fromSide":"top","toNode":"f06a2bcae040a48f","toSide":"bottom"},
+		{"id":"f186c046c30e02b4","fromNode":"76f27e9a1a0ec834","fromSide":"right","toNode":"93fd9c41ce13457a","toSide":"left"},
+		{"id":"1ef7368f1deb899b","fromNode":"76f27e9a1a0ec834","fromSide":"top","toNode":"25cea0da7b585abb","toSide":"bottom"},
+		{"id":"393923ca92d600a2","fromNode":"d5880d8a9372ac03","fromSide":"bottom","toNode":"82c33139ae2dba52","toSide":"top"},
+		{"id":"9e9309d3a06e68a4","fromNode":"82c33139ae2dba52","fromSide":"right","toNode":"2c08fa87a7f7c43b","toSide":"left","label":"can be specialised in"}
+	]
+}
