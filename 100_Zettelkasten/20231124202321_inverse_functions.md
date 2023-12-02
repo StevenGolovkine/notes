@@ -9,7 +9,7 @@ Done article: false
 ---
 # Inverse of functions
 
-The inverse of a function is a a particulat case of composition. Let $f: A \rightarrow B$ and $g: B \rightarrow A$ be two functions. We say that $g$ is the inverse of $f$, if for all $x \in A$, $g(f(x)) = x$ and $f$ is the inverse of $g$, if for all $x \in B$, $f(g(x)) = x$.
+The inverse of a function is a a particular case of composition. Let $f: A \rightarrow B$ and $g: B \rightarrow A$ be two functions. We say that $g$ is the inverse of $f$, if for all $x \in A$, $g(f(x)) = x$ and $f$ is the inverse of $g$, if for all $x \in B$, $f(g(x)) = x$.
 
 ![[inverse_figure_1.png|200]]
 

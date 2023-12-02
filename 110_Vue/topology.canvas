@@ -6,9 +6,12 @@
 		{"id":"a27b973bdf2e7cd3","type":"text","text":"Product of sets\n[[20231113111754_product_of_sets]]","x":600,"y":-200,"width":250,"height":60},
 		{"id":"13a2563fed214d7b","type":"text","text":"Functions and sets\n[[20231115200107_functions_and_sets]]","x":600,"y":-120,"width":250,"height":50},
 		{"id":"9862b6a7405dece3","type":"text","text":"Families of sets\n[[20231112203931_families_of_sets]]","x":600,"y":-273,"width":250,"height":60},
-		{"id":"f412ad6985e683c7","type":"text","text":"Relations\n[[20231118120813_relations_and_sets]]","x":960,"y":-170,"width":250,"height":60},
-		{"id":"85690743dcf1a411","type":"text","text":"Compositions\n[[20231119115753_composition_functions]]","x":960,"y":-49,"width":250,"height":60},
-		{"id":"3e50bd0f452b9c1a","x":1280,"y":-49,"width":250,"height":60,"type":"text","text":"Inverse\n[[20231124202321_inverse_functions]]"}
+		{"id":"f412ad6985e683c7","type":"text","text":"Relations\n[[20231118120813_relations_and_sets]]","x":960,"y":-260,"width":250,"height":60},
+		{"id":"85690743dcf1a411","type":"text","text":"Compositions\n[[20231119115753_composition_functions]]","x":960,"y":-170,"width":250,"height":60},
+		{"id":"3e50bd0f452b9c1a","type":"text","text":"Inverse\n[[20231124202321_inverse_functions]]","x":1320,"y":-243,"width":250,"height":60},
+		{"id":"fbea8c020e469cfb","x":1320,"y":-140,"width":250,"height":60,"type":"text","text":"Restriction and extension\n[[20231201104337_restriction_functions]]"},
+		{"id":"77440733838039f9","x":960,"y":-19,"width":250,"height":60,"type":"text","text":"Construction of functions"},
+		{"id":"90dc4c6462e6a428","x":1320,"y":-19,"width":250,"height":60,"type":"text","text":"Trigonometric functions\n[[20231201111635_construction_sinus]]"}
 	],
 	"edges":[
 		{"id":"757456e766e4d11f","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"febb7a636cbcb394","toSide":"left"},
@@ -18,6 +21,9 @@
 		{"id":"db6936e4a03835f5","fromNode":"febb7a636cbcb394","fromSide":"right","toNode":"13a2563fed214d7b","toSide":"left"},
 		{"id":"f74b5adb09298b22","fromNode":"13a2563fed214d7b","fromSide":"right","toNode":"f412ad6985e683c7","toSide":"left"},
 		{"id":"27cd49ccabc33406","fromNode":"13a2563fed214d7b","fromSide":"right","toNode":"85690743dcf1a411","toSide":"left"},
-		{"id":"e3e7a68d2156fa69","fromNode":"85690743dcf1a411","fromSide":"right","toNode":"3e50bd0f452b9c1a","toSide":"left"}
+		{"id":"e3e7a68d2156fa69","fromNode":"85690743dcf1a411","fromSide":"right","toNode":"3e50bd0f452b9c1a","toSide":"left"},
+		{"id":"e834717db3cc4825","fromNode":"85690743dcf1a411","fromSide":"right","toNode":"fbea8c020e469cfb","toSide":"left"},
+		{"id":"78a69f0e1c6b302e","fromNode":"13a2563fed214d7b","fromSide":"right","toNode":"77440733838039f9","toSide":"left"},
+		{"id":"4b091ab13c09fccb","fromNode":"77440733838039f9","fromSide":"right","toNode":"90dc4c6462e6a428","toSide":"left"}
 	]
 }
