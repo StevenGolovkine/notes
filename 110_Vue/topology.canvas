@@ -14,7 +14,8 @@
 		{"id":"13a2563fed214d7b","type":"text","text":"Functions and sets\n[[20231115200107_functions_and_sets]]","x":600,"y":30,"width":250,"height":50},
 		{"id":"7b6b93c0a3ff4818","type":"text","text":"Arbitrary products\n[[20231204181141_arbitrary_products_sets]]","x":1040,"y":-200,"width":250,"height":60},
 		{"id":"939f449e3377a288","x":-128,"y":171,"width":250,"height":60,"type":"text","text":"Metric spaces\n[[20231205152258_metric_spaces]]"},
-		{"id":"36dacbb4fa7253b4","x":280,"y":171,"width":250,"height":60,"type":"text","text":"Continuity\n[[20231224144357_continuity]]"}
+		{"id":"36dacbb4fa7253b4","x":280,"y":171,"width":250,"height":60,"type":"text","text":"Continuity\n[[20231224144357_continuity]]"},
+		{"id":"451e86d20255d90a","x":-127,"y":378,"width":250,"height":60,"type":"text","text":"Open balls\n[[20231224144357_continuity]]"}
 	],
 	"edges":[
 		{"id":"757456e766e4d11f","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"febb7a636cbcb394","toSide":"left"},
@@ -30,6 +31,8 @@
 		{"id":"4b091ab13c09fccb","fromNode":"77440733838039f9","fromSide":"right","toNode":"90dc4c6462e6a428","toSide":"left"},
 		{"id":"3256a3236ad6e4ee","fromNode":"a27b973bdf2e7cd3","fromSide":"right","toNode":"7b6b93c0a3ff4818","toSide":"left"},
 		{"id":"1beba3016837d46a","fromNode":"c714055fdc4409ca","fromSide":"bottom","toNode":"939f449e3377a288","toSide":"top"},
-		{"id":"452b4cd8a892ef15","fromNode":"939f449e3377a288","fromSide":"right","toNode":"36dacbb4fa7253b4","toSide":"left"}
+		{"id":"452b4cd8a892ef15","fromNode":"939f449e3377a288","fromSide":"right","toNode":"36dacbb4fa7253b4","toSide":"left"},
+		{"id":"7ed734eb5f46cdcc","fromNode":"939f449e3377a288","fromSide":"bottom","toNode":"451e86d20255d90a","toSide":"top"},
+		{"id":"cec8611045f85d4e","fromNode":"451e86d20255d90a","fromSide":"right","toNode":"36dacbb4fa7253b4","toSide":"left"}
 	]
 }
