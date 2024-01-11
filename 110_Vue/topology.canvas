@@ -20,7 +20,8 @@
 		{"id":"c04735bd84806086","type":"text","text":"Reals","x":385,"y":-463,"width":250,"height":60},
 		{"id":"6b851829135299cc","type":"text","text":"Completeness postulate\n[[20240109093600_completeness_postulate]]","x":385,"y":-780,"width":250,"height":60},
 		{"id":"aec219382815aabc","x":385,"y":-604,"width":250,"height":60,"type":"text","text":"Bounds\n[[20240109093008_bounds]]"},
-		{"id":"2038ddc51c574a05","x":260,"y":520,"width":250,"height":60,"type":"text","text":"Limits\n[[20240109085857_limits]]"}
+		{"id":"2038ddc51c574a05","x":260,"y":520,"width":250,"height":60,"type":"text","text":"Limits\n[[20240109085857_limits]]"},
+		{"id":"672eb5a3efb6430f","x":-128,"y":620,"width":250,"height":60,"type":"text","text":"Open and closed sets\n[[20240111174343_open_closed_sets]]"}
 	],
 	"edges":[
 		{"id":"757456e766e4d11f","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"febb7a636cbcb394","toSide":"left"},
@@ -44,6 +45,7 @@
 		{"id":"75eb4f5b9baef599","fromNode":"febb7a636cbcb394","fromSide":"top","toNode":"c04735bd84806086","toSide":"bottom"},
 		{"id":"0e22f49c8d6e72fc","fromNode":"c04735bd84806086","fromSide":"top","toNode":"aec219382815aabc","toSide":"bottom"},
 		{"id":"26fc64c523f80544","fromNode":"aec219382815aabc","fromSide":"top","toNode":"6b851829135299cc","toSide":"bottom"},
-		{"id":"f386f29d0d2d2ab9","fromNode":"2038ddc51c574a05","fromSide":"top","toNode":"36dacbb4fa7253b4","toSide":"bottom"}
+		{"id":"f386f29d0d2d2ab9","fromNode":"2038ddc51c574a05","fromSide":"top","toNode":"36dacbb4fa7253b4","toSide":"bottom"},
+		{"id":"0d454db8a5cc86b7","fromNode":"eab790ce3d286318","fromSide":"bottom","toNode":"672eb5a3efb6430f","toSide":"top"}
 	]
 }
