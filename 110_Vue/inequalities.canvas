@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"22c047d3025631ce","type":"text","text":"Inequalities","x":-109,"y":-143,"width":250,"height":60},
+		{"id":"29534aa70fd06cc4","x":-109,"y":-300,"width":250,"height":60,"type":"text","text":"Cauchy-Schwarz\n[[20240117090624_cauchy_schwarz_inequality]]"}
+	],
+	"edges":[
+		{"id":"a4130e6738e3cad8","fromNode":"22c047d3025631ce","fromSide":"top","toNode":"29534aa70fd06cc4","toSide":"bottom"}
+	]
+}
