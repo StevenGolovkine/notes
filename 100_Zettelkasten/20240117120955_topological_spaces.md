@@ -23,3 +23,4 @@ If $\mathfrak{S}$ is the collection of open sets of a metric space $(X, d)$, the
 * Let $X$ be a set and $\mathfrak{S} = \{X, \emptyset\}$. Then $(X, \mathfrak{S})$ is a topological space.
 * Let $X$ be a set and $\mathfrak{S} = 2^X$ be the collection of all subsets of $X$. Then $(X, \mathfrak{S})$ is a topological space, called the discrete topology.
 
+**Be careful: the notion of open ball does not exists in a topological space.**
