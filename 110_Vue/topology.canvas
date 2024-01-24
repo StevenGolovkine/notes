@@ -41,7 +41,8 @@
 		{"id":"eb5af3c1babcd0b2","type":"text","text":"Neighborhood\n[[20240118180258_neighborhood]]","x":-810,"y":-778,"width":250,"height":60},
 		{"id":"cf28891426dd23a5","type":"text","text":"Open sets\n[[20240118100347_open_set]]","x":-810,"y":-629,"width":250,"height":60},
 		{"id":"30f85594ea80c0e1","type":"text","text":"Neighborhood spaces\n[[20240118095641_neighborhood_space]]","x":-810,"y":-484,"width":250,"height":60},
-		{"id":"c53c1d2a048c9208","type":"text","text":"Topological $\\Leftrightarrow$ Neighborhood\n[[20240118175012_link_between_topo_neighborhood]]","x":-432,"y":-484,"width":304,"height":60}
+		{"id":"c53c1d2a048c9208","type":"text","text":"Topological $\\Leftrightarrow$ Neighborhood\n[[20240118175012_link_between_topo_neighborhood]]","x":-432,"y":-484,"width":304,"height":60},
+		{"id":"f36c69606c1757ca","x":668,"y":-360,"width":250,"height":60,"type":"text","text":"Subspace of topological spaces\n[[20240124174623_subspace_topological_space]]"}
 	],
 	"edges":[
 		{"id":"3af27c2aa2984116","fromNode":"febb7a636cbcb394","fromSide":"top","toNode":"3af4f028fad2b6fc","toSide":"bottom"},
@@ -91,6 +92,7 @@
 		{"id":"9d3fec0ed2900ec7","fromNode":"30245d9bb6973e28","fromSide":"left","toNode":"3dd67a79f3fd4d67","toSide":"right"},
 		{"id":"413976f3abeed1b8","fromNode":"672eb5a3efb6430f","fromSide":"right","toNode":"36dacbb4fa7253b4","toSide":"bottom"},
 		{"id":"0ef34e4d1b8c8406","fromNode":"d88ca926bc38a886","fromSide":"bottom","toNode":"c714055fdc4409ca","toSide":"top"},
-		{"id":"4bdfbd873ca973cc","fromNode":"023ba352cd571c1f","fromSide":"left","toNode":"3dd67a79f3fd4d67","toSide":"right"}
+		{"id":"4bdfbd873ca973cc","fromNode":"023ba352cd571c1f","fromSide":"left","toNode":"3dd67a79f3fd4d67","toSide":"right"},
+		{"id":"3e35cb01a77b3c04","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"f36c69606c1757ca","toSide":"left"}
 	]
 }
