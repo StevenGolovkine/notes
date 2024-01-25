@@ -26,3 +26,5 @@ If $\mathfrak{S}$ is the collection of open sets of a metric space $(X, d)$, the
 **Be careful: the notion of open ball does not exists in a topological space.**
 
 A function $f$ from a topological space $(X, \mathfrak{S})$ to a topological space $(Y, \mathfrak{S}^\prime)$ is a function $f: X \rightarrow Y$.
+
+Let $\mathfrak{S}_1$ and $\mathfrak{S}_2$ be two topologies on some set. $\mathfrak{S}_1$ is weaker than $\mathfrak{S}_2$ if $\mathfrak{S}_1 \subset \mathfrak{S}_2$.
