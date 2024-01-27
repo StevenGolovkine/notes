@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"35ba07f14d8d2ed0","type":"group","x":-580,"y":360,"width":1110,"height":669,"label":"Metric spaces"},
-		{"id":"c714055fdc4409ca","type":"text","text":"Topological spaces\n[[20240117120955_topological_spaces]]","x":302,"y":-484,"width":250,"height":60},
 		{"id":"3af4f028fad2b6fc","type":"text","text":"Integers\n[[20231107115738_construction_of_integers]]","x":1375,"y":-280,"width":250,"height":57},
 		{"id":"6b851829135299cc","type":"text","text":"Completeness postulate\n[[20240109093600_completeness_postulate]]","x":1665,"y":-600,"width":250,"height":60},
 		{"id":"aec219382815aabc","type":"text","text":"Bounds\n[[20240109093008_bounds]]","x":1665,"y":-424,"width":250,"height":60},
@@ -22,12 +21,6 @@
 		{"id":"153c9ce36885c224","type":"text","text":"Hilbert spaces\n[[20240116170157_hilbert_spaces]]","x":1125,"y":380,"width":250,"height":60},
 		{"id":"36dacbb4fa7253b4","type":"text","text":"Continuity\n[[20231224144357_continuity]]","x":220,"y":528,"width":250,"height":60},
 		{"id":"2038ddc51c574a05","type":"text","text":"Limits\n[[20240109085857_limits]]","x":220,"y":930,"width":250,"height":60},
-		{"id":"30245d9bb6973e28","type":"text","text":"Open and closed sets\n[[20240117173050_open_closed_sets]]","x":302,"y":-839,"width":250,"height":60},
-		{"id":"32089c3f8bff830e","type":"text","text":"Boundary\n[[20240122092907_boundary]]","x":668,"y":-839,"width":250,"height":60},
-		{"id":"b0ee82baea218484","type":"text","text":"Neighborhood\n[[20240117172207_neighborhood]]","x":302,"y":-690,"width":250,"height":60},
-		{"id":"023ba352cd571c1f","type":"text","text":"Closure\n[[20240119115548_closure]]","x":302,"y":-1000,"width":250,"height":60},
-		{"id":"ddedb81defb90353","type":"text","text":"Between closure and interior\n[[20240122092402_between_closure_interior]]","x":467,"y":-1200,"width":250,"height":60},
-		{"id":"800fa997b5184e5b","type":"text","text":"Interior\n[[20240122091514_interior]]","x":637,"y":-1000,"width":250,"height":60},
 		{"id":"85690743dcf1a411","type":"text","text":"Compositions\n[[20231119115753_composition_functions]]","x":2260,"y":200,"width":250,"height":60},
 		{"id":"77440733838039f9","type":"text","text":"Construction of functions","x":2260,"y":351,"width":250,"height":60},
 		{"id":"f412ad6985e683c7","type":"text","text":"Relations\n[[20231118120813_relations_and_sets]]","x":2260,"y":110,"width":250,"height":60},
@@ -35,15 +28,24 @@
 		{"id":"3e50bd0f452b9c1a","type":"text","text":"Inverse\n[[20231124202321_inverse_functions]]","x":2620,"y":127,"width":250,"height":60},
 		{"id":"fbea8c020e469cfb","type":"text","text":"Restriction and extension\n[[20231201104337_restriction_functions]]","x":2620,"y":230,"width":250,"height":60},
 		{"id":"90dc4c6462e6a428","type":"text","text":"Trigonometric functions\n[[20231201111635_construction_sinus]]","x":2620,"y":351,"width":250,"height":60},
-		{"id":"3dd67a79f3fd4d67","x":-128,"y":-750,"width":250,"height":60,"type":"text","text":"Continuity\n[[20240123172627_continuity]]"},
-		{"id":"eb5af3c1babcd0b2","type":"text","text":"Neighborhood\n[[20240118180258_neighborhood]]","x":-810,"y":-778,"width":250,"height":60},
-		{"id":"cf28891426dd23a5","type":"text","text":"Open sets\n[[20240118100347_open_set]]","x":-810,"y":-629,"width":250,"height":60},
-		{"id":"30f85594ea80c0e1","type":"text","text":"Neighborhood spaces\n[[20240118095641_neighborhood_space]]","x":-810,"y":-484,"width":250,"height":60},
-		{"id":"c53c1d2a048c9208","type":"text","text":"Topological $\\Leftrightarrow$ Neighborhood\n[[20240118175012_link_between_topo_neighborhood]]","x":-432,"y":-484,"width":304,"height":60},
-		{"id":"d88ca926bc38a886","x":668,"y":-690,"width":250,"height":60,"type":"text","text":"Homeomorhism\n[[20240123174349_homeomorphism]]"},
-		{"id":"f36c69606c1757ca","x":1020,"y":-380,"width":250,"height":60,"type":"text","text":"Subspace of topological spaces\n[[20240124174623_subspace_topological_space]]"},
-		{"id":"771e38e8baf331d3","type":"text","text":"Hausdorff spaces\n[[20240118094417_hausdorff_space]]","x":1020,"y":-454,"width":250,"height":60},
-		{"id":"075c32345e65941e","x":1020,"y":-538,"width":250,"height":54,"type":"text","text":"Products\n[[20240126091433_products]]"}
+		{"id":"30245d9bb6973e28","type":"text","text":"Open and closed sets\n[[20240117173050_open_closed_sets]]","x":150,"y":-1319,"width":250,"height":60},
+		{"id":"b0ee82baea218484","type":"text","text":"Neighborhood\n[[20240117172207_neighborhood]]","x":150,"y":-1170,"width":250,"height":60},
+		{"id":"32089c3f8bff830e","type":"text","text":"Boundary\n[[20240122092907_boundary]]","x":516,"y":-1319,"width":250,"height":60},
+		{"id":"023ba352cd571c1f","type":"text","text":"Closure\n[[20240119115548_closure]]","x":150,"y":-1480,"width":250,"height":60},
+		{"id":"ddedb81defb90353","type":"text","text":"Between closure and interior\n[[20240122092402_between_closure_interior]]","x":315,"y":-1680,"width":250,"height":60},
+		{"id":"800fa997b5184e5b","type":"text","text":"Interior\n[[20240122091514_interior]]","x":485,"y":-1480,"width":250,"height":60},
+		{"id":"d88ca926bc38a886","type":"text","text":"Homeomorhism\n[[20240123174349_homeomorphism]]","x":516,"y":-1170,"width":250,"height":60},
+		{"id":"c714055fdc4409ca","type":"text","text":"Topological spaces\n[[20240117120955_topological_spaces]]","x":150,"y":-964,"width":250,"height":60},
+		{"id":"f36c69606c1757ca","type":"text","text":"Subspace of topological spaces\n[[20240124174623_subspace_topological_space]]","x":868,"y":-860,"width":250,"height":60},
+		{"id":"771e38e8baf331d3","type":"text","text":"Hausdorff spaces\n[[20240118094417_hausdorff_space]]","x":868,"y":-934,"width":250,"height":60},
+		{"id":"075c32345e65941e","type":"text","text":"Products\n[[20240126091433_products]]","x":868,"y":-1018,"width":250,"height":54},
+		{"id":"f7b693e775271e30","type":"text","text":"Identification topologies\n[[20240127182450_identification_topologies]]","x":868,"y":-790,"width":250,"height":60},
+		{"id":"3dd67a79f3fd4d67","type":"text","text":"Continuity\n[[20240123172627_continuity]]","x":-280,"y":-1230,"width":250,"height":60},
+		{"id":"eb5af3c1babcd0b2","type":"text","text":"Neighborhood\n[[20240118180258_neighborhood]]","x":-1120,"y":-1258,"width":250,"height":60},
+		{"id":"cf28891426dd23a5","type":"text","text":"Open sets\n[[20240118100347_open_set]]","x":-1120,"y":-1109,"width":250,"height":60},
+		{"id":"30f85594ea80c0e1","type":"text","text":"Neighborhood spaces\n[[20240118095641_neighborhood_space]]","x":-1120,"y":-964,"width":250,"height":60},
+		{"id":"c53c1d2a048c9208","type":"text","text":"Topological $\\Leftrightarrow$ Neighborhood\n[[20240118175012_link_between_topo_neighborhood]]","x":-742,"y":-964,"width":304,"height":60},
+		{"id":"7073885ac7165cfb","type":"text","text":"Examples of identificaiton\n[[20240127182710_examples_identification]]","x":1250,"y":-790,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"3af27c2aa2984116","fromNode":"febb7a636cbcb394","fromSide":"top","toNode":"3af4f028fad2b6fc","toSide":"bottom"},
@@ -95,6 +97,8 @@
 		{"id":"0ef34e4d1b8c8406","fromNode":"d88ca926bc38a886","fromSide":"bottom","toNode":"c714055fdc4409ca","toSide":"top"},
 		{"id":"4bdfbd873ca973cc","fromNode":"023ba352cd571c1f","fromSide":"left","toNode":"3dd67a79f3fd4d67","toSide":"right"},
 		{"id":"3e35cb01a77b3c04","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"f36c69606c1757ca","toSide":"left"},
-		{"id":"99ddf664096effac","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"075c32345e65941e","toSide":"left"}
+		{"id":"99ddf664096effac","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"075c32345e65941e","toSide":"left"},
+		{"id":"35059cfe11fd0e74","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"f7b693e775271e30","toSide":"left"},
+		{"id":"b79d27870945754a","fromNode":"f7b693e775271e30","fromSide":"right","toNode":"7073885ac7165cfb","toSide":"left"}
 	]
 }
