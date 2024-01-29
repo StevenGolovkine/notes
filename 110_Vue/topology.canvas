@@ -21,13 +21,7 @@
 		{"id":"153c9ce36885c224","type":"text","text":"Hilbert spaces\n[[20240116170157_hilbert_spaces]]","x":1125,"y":380,"width":250,"height":60},
 		{"id":"36dacbb4fa7253b4","type":"text","text":"Continuity\n[[20231224144357_continuity]]","x":220,"y":528,"width":250,"height":60},
 		{"id":"2038ddc51c574a05","type":"text","text":"Limits\n[[20240109085857_limits]]","x":220,"y":930,"width":250,"height":60},
-		{"id":"85690743dcf1a411","type":"text","text":"Compositions\n[[20231119115753_composition_functions]]","x":2260,"y":200,"width":250,"height":60},
-		{"id":"77440733838039f9","type":"text","text":"Construction of functions","x":2260,"y":351,"width":250,"height":60},
-		{"id":"f412ad6985e683c7","type":"text","text":"Relations\n[[20231118120813_relations_and_sets]]","x":2260,"y":110,"width":250,"height":60},
 		{"id":"7b6b93c0a3ff4818","type":"text","text":"Arbitrary products\n[[20231204181141_arbitrary_products_sets]]","x":2320,"y":-20,"width":250,"height":60},
-		{"id":"3e50bd0f452b9c1a","type":"text","text":"Inverse\n[[20231124202321_inverse_functions]]","x":2620,"y":127,"width":250,"height":60},
-		{"id":"fbea8c020e469cfb","type":"text","text":"Restriction and extension\n[[20231201104337_restriction_functions]]","x":2620,"y":230,"width":250,"height":60},
-		{"id":"90dc4c6462e6a428","type":"text","text":"Trigonometric functions\n[[20231201111635_construction_sinus]]","x":2620,"y":351,"width":250,"height":60},
 		{"id":"30245d9bb6973e28","type":"text","text":"Open and closed sets\n[[20240117173050_open_closed_sets]]","x":150,"y":-1319,"width":250,"height":60},
 		{"id":"b0ee82baea218484","type":"text","text":"Neighborhood\n[[20240117172207_neighborhood]]","x":150,"y":-1170,"width":250,"height":60},
 		{"id":"32089c3f8bff830e","type":"text","text":"Boundary\n[[20240122092907_boundary]]","x":516,"y":-1319,"width":250,"height":60},
@@ -45,7 +39,13 @@
 		{"id":"cf28891426dd23a5","type":"text","text":"Open sets\n[[20240118100347_open_set]]","x":-1120,"y":-1109,"width":250,"height":60},
 		{"id":"30f85594ea80c0e1","type":"text","text":"Neighborhood spaces\n[[20240118095641_neighborhood_space]]","x":-1120,"y":-964,"width":250,"height":60},
 		{"id":"c53c1d2a048c9208","type":"text","text":"Topological $\\Leftrightarrow$ Neighborhood\n[[20240118175012_link_between_topo_neighborhood]]","x":-742,"y":-964,"width":304,"height":60},
-		{"id":"7073885ac7165cfb","type":"text","text":"Examples of identificaiton\n[[20240127182710_examples_identification]]","x":1250,"y":-790,"width":250,"height":60}
+		{"id":"85690743dcf1a411","type":"text","text":"Compositions\n[[20231119115753_composition_functions]]","x":2360,"y":200,"width":250,"height":60},
+		{"id":"3e50bd0f452b9c1a","type":"text","text":"Inverse\n[[20231124202321_inverse_functions]]","x":2720,"y":127,"width":250,"height":60},
+		{"id":"fbea8c020e469cfb","type":"text","text":"Restriction and extension\n[[20231201104337_restriction_functions]]","x":2720,"y":230,"width":250,"height":60},
+		{"id":"f412ad6985e683c7","type":"text","text":"Relations\n[[20231118120813_relations_and_sets]]","x":2360,"y":110,"width":250,"height":60},
+		{"id":"77440733838039f9","type":"text","text":"Construction of functions","x":2360,"y":320,"width":250,"height":60},
+		{"id":"90dc4c6462e6a428","type":"text","text":"Trigonometric functions\n[[20231201111635_construction_sinus]]","x":2720,"y":320,"width":250,"height":60},
+		{"id":"830fc8368b1f2fed","x":2360,"y":410,"width":250,"height":60,"type":"text","text":"Mapping\n[[20240129090554_mapping]]"}
 	],
 	"edges":[
 		{"id":"3af27c2aa2984116","fromNode":"febb7a636cbcb394","fromSide":"top","toNode":"3af4f028fad2b6fc","toSide":"bottom"},
@@ -99,6 +99,6 @@
 		{"id":"3e35cb01a77b3c04","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"f36c69606c1757ca","toSide":"left"},
 		{"id":"99ddf664096effac","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"075c32345e65941e","toSide":"left"},
 		{"id":"35059cfe11fd0e74","fromNode":"c714055fdc4409ca","fromSide":"right","toNode":"f7b693e775271e30","toSide":"left"},
-		{"id":"b79d27870945754a","fromNode":"f7b693e775271e30","fromSide":"right","toNode":"7073885ac7165cfb","toSide":"left"}
+		{"id":"f01cc4159b5dffc6","fromNode":"13a2563fed214d7b","fromSide":"right","toNode":"830fc8368b1f2fed","toSide":"left"}
 	]
 }
