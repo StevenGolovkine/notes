@@ -56,7 +56,8 @@
 		{"id":"771e38e8baf331d3","type":"text","text":"Hausdorff spaces\n[[20240118094417_hausdorff_space]]","x":-108,"y":-1070,"width":250,"height":60},
 		{"id":"f36c69606c1757ca","type":"text","text":"Subspace of topological spaces\n[[20240124174623_subspace_topological_space]]","x":-108,"y":-980,"width":250,"height":60},
 		{"id":"f7b693e775271e30","type":"text","text":"Identification topologies\n[[20240127182450_identification_topologies]]","x":-108,"y":-886,"width":250,"height":60},
-		{"id":"4d0deb7f4660275a","type":"text","text":"Properties\n[[20240131095742_topological_properties]]","x":-108,"y":-1270,"width":250,"height":60}
+		{"id":"4d0deb7f4660275a","type":"text","text":"Properties\n[[20240131095742_topological_properties]]","x":-108,"y":-1270,"width":250,"height":60},
+		{"id":"109d460347e775a4","x":-515,"y":-2320,"width":250,"height":60,"type":"text","text":"Product\n[[20240201114257_product_connected_spaces]]"}
 	],
 	"edges":[
 		{"id":"3af27c2aa2984116","fromNode":"febb7a636cbcb394","fromSide":"top","toNode":"3af4f028fad2b6fc","toSide":"bottom"},
@@ -117,6 +118,7 @@
 		{"id":"b2e9bee52f06aaa5","fromNode":"afba3f0f82ffd228","fromSide":"left","toNode":"548846455dd2a341","toSide":"right"},
 		{"id":"c80e6f1228d2bd27","fromNode":"419edce92e26bff4","fromSide":"left","toNode":"29433df2d0aa7e62","toSide":"right"},
 		{"id":"a852aab8c28950ab","fromNode":"f2b2fd85f9ff5d40","fromSide":"top","toNode":"bc0986cd8effabd5","toSide":"bottom"},
-		{"id":"8b85a9b38937e863","fromNode":"d88ca926bc38a886","fromSide":"right","toNode":"4d0deb7f4660275a","toSide":"left"}
+		{"id":"8b85a9b38937e863","fromNode":"d88ca926bc38a886","fromSide":"right","toNode":"4d0deb7f4660275a","toSide":"left"},
+		{"id":"9b324bece64f497a","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"109d460347e775a4","toSide":"bottom"}
 	]
 }
