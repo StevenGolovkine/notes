@@ -4,6 +4,7 @@
 		{"id":"f2b2fd85f9ff5d40","type":"group","x":-1279,"y":-1800,"width":1438,"height":1040,"label":"Topological spaces"},
 		{"id":"35ba07f14d8d2ed0","type":"group","x":480,"y":-1840,"width":1292,"height":940,"label":"Metric spaces"},
 		{"id":"bc0986cd8effabd5","type":"group","x":-1048,"y":-2460,"width":975,"height":360,"label":"Connectedness"},
+		{"id":"d5674193d5928e71","x":-936,"y":-2840,"width":751,"height":180,"type":"group","label":"Application of connectedness"},
 		{"id":"a14a4120b954f676","type":"group","x":-2240,"y":-1370,"width":290,"height":394,"label":"Neighborhood spaces"},
 		{"id":"a435665f03ee240a","type":"text","text":"Topology","x":-146,"y":-20,"width":250,"height":60},
 		{"id":"afba3f0f82ffd228","type":"text","text":"Categories\n[[20240129112136_categories]]","x":-1022,"y":-17,"width":250,"height":60},
@@ -57,7 +58,11 @@
 		{"id":"f36c69606c1757ca","type":"text","text":"Subspace of topological spaces\n[[20240124174623_subspace_topological_space]]","x":-108,"y":-980,"width":250,"height":60},
 		{"id":"f7b693e775271e30","type":"text","text":"Identification topologies\n[[20240127182450_identification_topologies]]","x":-108,"y":-886,"width":250,"height":60},
 		{"id":"4d0deb7f4660275a","type":"text","text":"Properties\n[[20240131095742_topological_properties]]","x":-108,"y":-1270,"width":250,"height":60},
-		{"id":"109d460347e775a4","x":-515,"y":-2320,"width":250,"height":60,"type":"text","text":"Product\n[[20240201114257_product_connected_spaces]]"}
+		{"id":"109d460347e775a4","x":-515,"y":-2320,"width":250,"height":60,"type":"text","text":"Product\n[[20240201114257_product_connected_spaces]]"},
+		{"id":"be80f70ccc14e8a9","x":2963,"y":-303,"width":250,"height":60,"type":"text","text":"$\\mathbb{R}$"},
+		{"id":"e67b71f492e1df83","x":2962,"y":-464,"width":250,"height":60,"type":"text","text":"Intervals\n[[20240202112136_interval]]"},
+		{"id":"49b4766688fe4f5d","x":-916,"y":-2820,"width":250,"height":60,"type":"text","text":"Intermediate-value theorem\n[[20240206180717_intermediate_value_theorem]]"},
+		{"id":"00647e395c34fa34","x":-606,"y":-2820,"width":250,"height":60,"type":"text","text":"Fixed-point theorem\n[[20240206181551_fixed_point_theorem]]"}
 	],
 	"edges":[
 		{"id":"3af27c2aa2984116","fromNode":"febb7a636cbcb394","fromSide":"top","toNode":"3af4f028fad2b6fc","toSide":"bottom"},
@@ -119,6 +124,9 @@
 		{"id":"c80e6f1228d2bd27","fromNode":"419edce92e26bff4","fromSide":"left","toNode":"29433df2d0aa7e62","toSide":"right"},
 		{"id":"a852aab8c28950ab","fromNode":"f2b2fd85f9ff5d40","fromSide":"top","toNode":"bc0986cd8effabd5","toSide":"bottom"},
 		{"id":"8b85a9b38937e863","fromNode":"d88ca926bc38a886","fromSide":"right","toNode":"4d0deb7f4660275a","toSide":"left"},
-		{"id":"9b324bece64f497a","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"109d460347e775a4","toSide":"bottom"}
+		{"id":"9b324bece64f497a","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"109d460347e775a4","toSide":"bottom"},
+		{"id":"925cb781023c1e4e","fromNode":"c04735bd84806086","fromSide":"right","toNode":"be80f70ccc14e8a9","toSide":"left"},
+		{"id":"327099e7f2b6962a","fromNode":"be80f70ccc14e8a9","fromSide":"top","toNode":"e67b71f492e1df83","toSide":"bottom"},
+		{"id":"209439ef78dd7b3e","fromNode":"bc0986cd8effabd5","fromSide":"top","toNode":"d5674193d5928e71","toSide":"bottom"}
 	]
 }
