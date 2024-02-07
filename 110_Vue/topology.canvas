@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"db9c620b006cab54","type":"group","x":2173,"y":-640,"width":1635,"height":1110,"label":"Sets"},
+		{"id":"db9c620b006cab54","type":"group","x":2173,"y":-680,"width":1707,"height":1150,"label":"Sets"},
 		{"id":"f2b2fd85f9ff5d40","type":"group","x":-1279,"y":-1800,"width":1438,"height":1040,"label":"Topological spaces"},
 		{"id":"35ba07f14d8d2ed0","type":"group","x":480,"y":-1840,"width":1292,"height":940,"label":"Metric spaces"},
 		{"id":"bc0986cd8effabd5","type":"group","x":-1048,"y":-2460,"width":975,"height":360,"label":"Connectedness"},
@@ -62,7 +62,11 @@
 		{"id":"be80f70ccc14e8a9","x":2963,"y":-303,"width":250,"height":60,"type":"text","text":"$\\mathbb{R}$"},
 		{"id":"e67b71f492e1df83","x":2962,"y":-464,"width":250,"height":60,"type":"text","text":"Intervals\n[[20240202112136_interval]]"},
 		{"id":"49b4766688fe4f5d","x":-916,"y":-2820,"width":250,"height":60,"type":"text","text":"Intermediate-value theorem\n[[20240206180717_intermediate_value_theorem]]"},
-		{"id":"00647e395c34fa34","x":-606,"y":-2820,"width":250,"height":60,"type":"text","text":"Fixed-point theorem\n[[20240206181551_fixed_point_theorem]]"}
+		{"id":"00647e395c34fa34","x":-606,"y":-2820,"width":250,"height":60,"type":"text","text":"Fixed-point theorem\n[[20240206181551_fixed_point_theorem]]"},
+		{"id":"ab8fccc37d9bebf3","x":3310,"y":-303,"width":250,"height":60,"type":"text","text":"$\\mathbb{R}^n$"},
+		{"id":"a578113794bfe177","x":3600,"y":-524,"width":250,"height":60,"type":"text","text":"$n$-sphere\n[[20240207092606_n_sphere]]"},
+		{"id":"e0643fa3ab1975d5","x":3312,"y":-524,"width":250,"height":60,"type":"text","text":"Unit cube\n[[20240207085518_unit_cube]]"},
+		{"id":"8eaa99598c88f713","x":3600,"y":-635,"width":250,"height":60,"type":"text","text":"Antipodal points\n[[20240207093855_antipodal_points]]"}
 	],
 	"edges":[
 		{"id":"3af27c2aa2984116","fromNode":"febb7a636cbcb394","fromSide":"top","toNode":"3af4f028fad2b6fc","toSide":"bottom"},
@@ -127,6 +131,11 @@
 		{"id":"9b324bece64f497a","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"109d460347e775a4","toSide":"bottom"},
 		{"id":"925cb781023c1e4e","fromNode":"c04735bd84806086","fromSide":"right","toNode":"be80f70ccc14e8a9","toSide":"left"},
 		{"id":"327099e7f2b6962a","fromNode":"be80f70ccc14e8a9","fromSide":"top","toNode":"e67b71f492e1df83","toSide":"bottom"},
-		{"id":"209439ef78dd7b3e","fromNode":"bc0986cd8effabd5","fromSide":"top","toNode":"d5674193d5928e71","toSide":"bottom"}
+		{"id":"209439ef78dd7b3e","fromNode":"bc0986cd8effabd5","fromSide":"top","toNode":"d5674193d5928e71","toSide":"bottom"},
+		{"id":"fbbf95da1cfdae23","fromNode":"be80f70ccc14e8a9","fromSide":"right","toNode":"ab8fccc37d9bebf3","toSide":"left"},
+		{"id":"8942fcc9592f7b0b","fromNode":"ab8fccc37d9bebf3","fromSide":"top","toNode":"e0643fa3ab1975d5","toSide":"bottom"},
+		{"id":"f7dd328bea48c3e9","fromNode":"49b4766688fe4f5d","fromSide":"right","toNode":"00647e395c34fa34","toSide":"left"},
+		{"id":"5988e94269c518e4","fromNode":"ab8fccc37d9bebf3","fromSide":"top","toNode":"a578113794bfe177","toSide":"bottom"},
+		{"id":"ce2f6761d67f91ff","fromNode":"a578113794bfe177","fromSide":"top","toNode":"8eaa99598c88f713","toSide":"bottom"}
 	]
 }
