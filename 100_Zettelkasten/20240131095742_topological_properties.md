@@ -12,6 +12,7 @@ A property of a topological space is said to be a topological property if each t
 
 Example:
 - Connectedness ([[20240131085434_connectedness]])
+- Path-connectedness ([[20240209155532_path_connectedness]])
 
 
 

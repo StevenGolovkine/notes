@@ -1,14 +1,11 @@
 {
 	"nodes":[
-		{"id":"db9c620b006cab54","type":"group","x":2173,"y":-680,"width":1707,"height":1150,"label":"Sets"},
+		{"id":"db9c620b006cab54","type":"group","x":2173,"y":-680,"width":2387,"height":1520,"label":"Sets"},
 		{"id":"f2b2fd85f9ff5d40","type":"group","x":-1279,"y":-1800,"width":1438,"height":1040,"label":"Topological spaces"},
 		{"id":"35ba07f14d8d2ed0","type":"group","x":480,"y":-1840,"width":1292,"height":940,"label":"Metric spaces"},
 		{"id":"bc0986cd8effabd5","type":"group","x":-1279,"y":-2460,"width":1438,"height":500,"label":"Connectedness"},
 		{"id":"d5674193d5928e71","type":"group","x":-936,"y":-2840,"width":751,"height":180,"label":"Application of connectedness"},
 		{"id":"a14a4120b954f676","type":"group","x":-2240,"y":-1370,"width":290,"height":394,"label":"Neighborhood spaces"},
-		{"id":"afba3f0f82ffd228","type":"text","text":"Categories\n[[20240129112136_categories]]","x":-1022,"y":-17,"width":250,"height":60},
-		{"id":"153c9ce36885c224","type":"text","text":"Hilbert spaces\n[[20240116170157_hilbert_spaces]]","x":2720,"y":-1820,"width":250,"height":60},
-		{"id":"548846455dd2a341","type":"text","text":"Functors\n[[20240129115944_functor]]","x":-1412,"y":-15,"width":250,"height":60},
 		{"id":"f412ad6985e683c7","type":"text","text":"Relations\n[[20231118120813_relations_and_sets]]","x":3178,"y":90,"width":250,"height":60},
 		{"id":"c04735bd84806086","type":"text","text":"Reals","x":2483,"y":-303,"width":250,"height":60},
 		{"id":"3af4f028fad2b6fc","type":"text","text":"Integers\n[[20231107115738_construction_of_integers]]","x":2193,"y":-300,"width":250,"height":57},
@@ -70,7 +67,11 @@
 		{"id":"00647e395c34fa34","type":"text","text":"Fixed-point theorem\n[[20240206181551_fixed_point_theorem]]","x":-606,"y":-2820,"width":250,"height":60},
 		{"id":"078f63cf91bf0f90","x":-684,"y":-2240,"width":250,"height":60,"type":"text","text":"Locally connected\n[[20240209153048_locally_connected]]"},
 		{"id":"2a098bd570b33a34","type":"text","text":"Components\n[[20240209145349_components]]","x":-1166,"y":-2240,"width":250,"height":60},
-		{"id":"21e5a5170bd18f04","type":"text","text":"Equivalence relation\n[[20240209150455_equivalence_relation]]","x":-1166,"y":-2360,"width":250,"height":60}
+		{"id":"21e5a5170bd18f04","type":"text","text":"Equivalence relation\n[[20240209150455_equivalence_relation]]","x":-1166,"y":-2360,"width":250,"height":60},
+		{"id":"afba3f0f82ffd228","type":"text","text":"Categories\n[[20240129112136_categories]]","x":-1022,"y":-17,"width":250,"height":60},
+		{"id":"153c9ce36885c224","type":"text","text":"Hilbert spaces\n[[20240116170157_hilbert_spaces]]","x":2720,"y":-1820,"width":250,"height":60},
+		{"id":"548846455dd2a341","type":"text","text":"Functors\n[[20240129115944_functor]]","x":-1412,"y":-15,"width":250,"height":60},
+		{"id":"d1b1c3f4d78fdb83","x":-200,"y":-2240,"width":250,"height":60,"type":"text","text":"Path-connected\n[[20240209155532_path_connectedness]]"}
 	],
 	"edges":[
 		{"id":"3af27c2aa2984116","fromNode":"febb7a636cbcb394","fromSide":"top","toNode":"3af4f028fad2b6fc","toSide":"bottom"},
@@ -144,6 +145,7 @@
 		{"id":"59c49322ff65504d","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"2a098bd570b33a34","toSide":"bottom"},
 		{"id":"79c4f209a08bf378","fromNode":"2a098bd570b33a34","fromSide":"top","toNode":"21e5a5170bd18f04","toSide":"bottom"},
 		{"id":"0e04980470feba96","fromNode":"9862b6a7405dece3","fromSide":"right","toNode":"65fefe82abc426e2","toSide":"left"},
-		{"id":"4d327df9dbe38a26","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"078f63cf91bf0f90","toSide":"bottom"}
+		{"id":"4d327df9dbe38a26","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"078f63cf91bf0f90","toSide":"bottom"},
+		{"id":"3f2d7a67da59c311","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"d1b1c3f4d78fdb83","toSide":"bottom"}
 	]
 }
