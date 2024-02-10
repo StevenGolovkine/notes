@@ -71,7 +71,8 @@
 		{"id":"afba3f0f82ffd228","type":"text","text":"Categories\n[[20240129112136_categories]]","x":-1022,"y":-17,"width":250,"height":60},
 		{"id":"153c9ce36885c224","type":"text","text":"Hilbert spaces\n[[20240116170157_hilbert_spaces]]","x":2720,"y":-1820,"width":250,"height":60},
 		{"id":"548846455dd2a341","type":"text","text":"Functors\n[[20240129115944_functor]]","x":-1412,"y":-15,"width":250,"height":60},
-		{"id":"d1b1c3f4d78fdb83","x":-200,"y":-2240,"width":250,"height":60,"type":"text","text":"Path-connected\n[[20240209155532_path_connectedness]]"}
+		{"id":"d1b1c3f4d78fdb83","x":-200,"y":-2240,"width":250,"height":60,"type":"text","text":"Path-connected\n[[20240209155532_path_connectedness]]"},
+		{"id":"1e318d006e3d92ca","x":3900,"y":-524,"width":250,"height":60,"type":"text","text":"Annulus\n[[20240210113527_annulus]]"}
 	],
 	"edges":[
 		{"id":"3af27c2aa2984116","fromNode":"febb7a636cbcb394","fromSide":"top","toNode":"3af4f028fad2b6fc","toSide":"bottom"},
@@ -146,6 +147,7 @@
 		{"id":"79c4f209a08bf378","fromNode":"2a098bd570b33a34","fromSide":"top","toNode":"21e5a5170bd18f04","toSide":"bottom"},
 		{"id":"0e04980470feba96","fromNode":"9862b6a7405dece3","fromSide":"right","toNode":"65fefe82abc426e2","toSide":"left"},
 		{"id":"4d327df9dbe38a26","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"078f63cf91bf0f90","toSide":"bottom"},
-		{"id":"3f2d7a67da59c311","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"d1b1c3f4d78fdb83","toSide":"bottom"}
+		{"id":"3f2d7a67da59c311","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"d1b1c3f4d78fdb83","toSide":"bottom"},
+		{"id":"f294dc55016d1d91","fromNode":"ab8fccc37d9bebf3","fromSide":"top","toNode":"1e318d006e3d92ca","toSide":"bottom"}
 	]
 }
