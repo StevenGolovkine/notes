@@ -19,3 +19,7 @@ $$\forall x \in X, f(x) = g \circ i (x).$$
 ![[restriction_figure_1.png|200]]
 
 The diagram is thus commutative.
+
+
+**Definition in topological space:**
+Let $(X, \mathfrak{S})$ be a topological space and let $A, B$ be closed subsets of this space. Let $g: A \rightarrow Y$ and $h: B \rightarrow Y$ be continuous functions with the property that for $x \in A \cap B, g(x) = h(x)$. Then the function $k: A \cup B \rightarrow Y$ defined by $k(x) = g(x), x \in A$ and $k(x) = h(x), x \in B$ is a continuous extension of $g$ and $h$.
