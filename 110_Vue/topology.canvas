@@ -74,7 +74,8 @@
 		{"id":"153c9ce36885c224","type":"text","text":"Hilbert spaces\n[[20240116170157_hilbert_spaces]]","x":2720,"y":-1820,"width":250,"height":60},
 		{"id":"49b4766688fe4f5d","type":"text","text":"Intermediate-value theorem\n[[20240206180717_intermediate_value_theorem]]","x":-915,"y":-3420,"width":250,"height":60},
 		{"id":"00647e395c34fa34","type":"text","text":"Fixed-point theorem\n[[20240206181551_fixed_point_theorem]]","x":-605,"y":-3420,"width":250,"height":60},
-		{"id":"e8f56f29a51d5107","x":-198,"y":-2587,"width":250,"height":60,"type":"text","text":"Equivalence class of paths\n[[20240219163653_equivalence_class_path]]"}
+		{"id":"e8f56f29a51d5107","x":-198,"y":-2587,"width":250,"height":60,"type":"text","text":"Equivalence class of paths\n[[20240219163653_equivalence_class_path]]"},
+		{"id":"aca04ba05af39101","x":-200,"y":-2737,"width":250,"height":60,"type":"text","text":"Concatenation of paths\n[[20240219170725_concatenation_paths]]"}
 	],
 	"edges":[
 		{"id":"3af27c2aa2984116","fromNode":"febb7a636cbcb394","fromSide":"top","toNode":"3af4f028fad2b6fc","toSide":"bottom"},
@@ -152,6 +153,7 @@
 		{"id":"3f2d7a67da59c311","fromNode":"419edce92e26bff4","fromSide":"top","toNode":"d1b1c3f4d78fdb83","toSide":"bottom"},
 		{"id":"f294dc55016d1d91","fromNode":"ab8fccc37d9bebf3","fromSide":"top","toNode":"1e318d006e3d92ca","toSide":"bottom"},
 		{"id":"49ff44cbd35c51ef","fromNode":"d1b1c3f4d78fdb83","fromSide":"top","toNode":"8c16cf2f5e5c74c9","toSide":"bottom"},
-		{"id":"d73eccc16078bf14","fromNode":"8c16cf2f5e5c74c9","fromSide":"top","toNode":"e8f56f29a51d5107","toSide":"bottom"}
+		{"id":"d73eccc16078bf14","fromNode":"8c16cf2f5e5c74c9","fromSide":"top","toNode":"e8f56f29a51d5107","toSide":"bottom"},
+		{"id":"68393fedc82c7753","fromNode":"e8f56f29a51d5107","fromSide":"top","toNode":"aca04ba05af39101","toSide":"bottom"}
 	]
 }
