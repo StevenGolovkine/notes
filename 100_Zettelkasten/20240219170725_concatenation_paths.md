@@ -8,4 +8,3 @@ Done article: false
 ---
 # Concatenation of paths
 
-
