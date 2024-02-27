@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"301051ed3ef96801","x":-140,"y":-60,"width":250,"height":60,"type":"text","text":"Splines"},
+		{"id":"a7b8b5b77e674da9","x":310,"y":-161,"width":250,"height":60,"type":"text","text":"B-splines\n[[20240226145357_bsplines]]"},
+		{"id":"9106db8e7f75dcaa","x":756,"y":-160,"width":250,"height":60,"type":"text","text":"P-splines\n[[20240226150247_psplines]]"},
+		{"id":"17d85a5063f4c219","x":756,"y":-360,"width":250,"height":60,"type":"text","text":"Penalty\n[[20240227081543_penalty]]"},
+		{"id":"6867a2460684bc57","x":1178,"y":-160,"width":250,"height":60,"type":"text","text":"Derivative estimation\n[[20240227120811_derivatives_of_psplines]]"}
+	],
+	"edges":[
+		{"id":"81d016b9d7c10040","fromNode":"301051ed3ef96801","fromSide":"right","toNode":"a7b8b5b77e674da9","toSide":"left"},
+		{"id":"2a83c7bdf470383f","fromNode":"a7b8b5b77e674da9","fromSide":"right","toNode":"9106db8e7f75dcaa","toSide":"left"},
+		{"id":"3ace7fa8ad5dc474","fromNode":"17d85a5063f4c219","fromSide":"bottom","toNode":"9106db8e7f75dcaa","toSide":"top"},
+		{"id":"ab5484948536c857","fromNode":"9106db8e7f75dcaa","fromSide":"right","toNode":"6867a2460684bc57","toSide":"left"}
+	]
+}
