@@ -9,8 +9,10 @@
 		{"id":"2926b78e4be00aec","x":1178,"y":40,"width":250,"height":60,"type":"text","text":"Standard errors\n[[20240227142514_standard_errors_psplines]]"},
 		{"id":"cf49ebaa21006dc8","x":1179,"y":-255,"width":250,"height":60,"type":"text","text":"Optimal smoothing"},
 		{"id":"89313d27279f77ef","x":1607,"y":-255,"width":250,"height":60,"type":"text","text":"Cross-validation\n[[20240228133044_cross_validation]]"},
-		{"id":"ab01b1a332d14cd4","x":766,"y":305,"width":250,"height":60,"type":"text","text":"Multidimensional P-splines\n"},
-		{"id":"e474a7d2147e5107","x":1113,"y":306,"width":250,"height":60,"type":"text","text":"Tensor product models\n[[20240228143935_tensor_product_models]]\n"}
+		{"id":"e474a7d2147e5107","x":1113,"y":306,"width":250,"height":60,"type":"text","text":"Tensor product models\n[[20240228143935_tensor_product_models]]\n"},
+		{"id":"ab01b1a332d14cd4","x":756,"y":306,"width":250,"height":60,"type":"text","text":"Multidimensional P-splines\n"},
+		{"id":"0cf69ac1b4bf1a98","x":756,"y":520,"width":250,"height":60,"type":"text","text":"Multidimensional penalty\n[[20240229103151_multidimensional_penalty]]"},
+		{"id":"e3f290b27ec34961","x":1113,"y":420,"width":250,"height":60,"type":"text","text":"Array algorithms\n[[20240229141036_array_algorithms]]"}
 	],
 	"edges":[
 		{"id":"81d016b9d7c10040","fromNode":"301051ed3ef96801","fromSide":"right","toNode":"a7b8b5b77e674da9","toSide":"left"},
@@ -22,6 +24,8 @@
 		{"id":"3f5005de973b452f","fromNode":"9106db8e7f75dcaa","fromSide":"right","toNode":"cf49ebaa21006dc8","toSide":"left"},
 		{"id":"951ee156c002b50e","fromNode":"cf49ebaa21006dc8","fromSide":"right","toNode":"89313d27279f77ef","toSide":"left"},
 		{"id":"b9f1a45ed896d944","fromNode":"9106db8e7f75dcaa","fromSide":"bottom","toNode":"ab01b1a332d14cd4","toSide":"top"},
-		{"id":"f4c441c6514c064f","fromNode":"ab01b1a332d14cd4","fromSide":"right","toNode":"e474a7d2147e5107","toSide":"left"}
+		{"id":"f4c441c6514c064f","fromNode":"ab01b1a332d14cd4","fromSide":"right","toNode":"e474a7d2147e5107","toSide":"left"},
+		{"id":"54ceaeab47b115a3","fromNode":"0cf69ac1b4bf1a98","fromSide":"top","toNode":"ab01b1a332d14cd4","toSide":"bottom"},
+		{"id":"6b79a84b3136eeca","fromNode":"ab01b1a332d14cd4","fromSide":"right","toNode":"e3f290b27ec34961","toSide":"left"}
 	]
 }
