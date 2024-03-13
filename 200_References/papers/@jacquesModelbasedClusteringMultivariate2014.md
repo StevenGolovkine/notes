@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: multivariate-functional-data, functional-principal-components, model-based-clustering
+tags:
+  - multivariate-functional-data
+  - functional-principal-components
+  - model-based-clustering
+  - functional-data-analysis
 citekey: jacquesModelbasedClusteringMultivariate2014
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -31,6 +35,8 @@ dateread:
 >     
 > **Pages**:: 92-106    
 >**DOI**:: 10.1016/j.csda.2012.12.004    
+>
+>**Smoothing**:: None
 >
 
 > [!LINK] 

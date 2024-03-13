@@ -1,10 +1,13 @@
 ---
 category: literaturenote
-tags: covariance-operator-estimation, functional-data-analysis, reproducing-kernel-hilbert-space, smoothing-splines
+tags:
+  - covariance-operator-estimation
+  - functional-data-analysis
+  - reproducing-kernel-hilbert-space
 citekey: caiNonparametricCovarianceFunction
 itemType: report
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -23,15 +26,9 @@ dateread:
 > **Title**:: Nonparametric Covariance Function Estimation for Functional and Longitudinal Data    
 > **Year**:: Error: `format` can only be applied to dates. Tried for format object     
 > **Citekey**:: @caiNonparametricCovarianceFunction    
->    
->    
->     
->    
->    
->     
->    
->    
 >
+> **Smoothing**:: RKHS
+
 
 > [!LINK] 
 >

@@ -1,6 +1,6 @@
 ---
 category: literaturenote
-tags: functional-data-analysis, functional-linear-model, reproducing-kernel-hilbert-space, variable-selection
+tags: functional-data-analysis, reproducing-kernel-hilbert-space, functional-linear-model, variable-selection
 citekey: huFunctionalRegressionDependent2023
 itemType: journalArticle
 status: unread  
@@ -32,6 +32,7 @@ dateread:
 > **Pages**:: 736-764    
 >**DOI**:: 10.1007/s42952-023-00219-2    
 >
+>**Smoothing**:: RKHS
 
 > [!LINK] 
 >
@@ -49,4 +50,4 @@ dateread:
   
 %% end annotations %%
 
-%% Import Date: 2023-10-25T11:21:12.458+01:00 %%
+%% Import Date: 2024-03-13T14:31:46.648+00:00 %%

@@ -26,7 +26,7 @@ dateread:
 > **Citekey**:: @freventContributionSpatialStatistics2022    
 >    
 >    
->     
+>  **Smoothing**:: None
 >    
 >    
 >     

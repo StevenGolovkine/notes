@@ -6,6 +6,7 @@ tags:
   - model-based-clustering
   - clustering
   - gaussian-mixture-model
+  - functional-data-analysis
 citekey: golovkineClusteringMultivariateFunctional2022
 itemType: journalArticle
 status: unread
@@ -36,7 +37,9 @@ dateread:
 >    
 >     
 > **Pages**:: 107376    
->**DOI**:: 10.1016/j.csda.2021.107376    
+>**DOI**:: 10.1016/j.csda.2021.107376 
+>
+>**Smoothing**:: Local regression
 >
 
 > [!LINK] 

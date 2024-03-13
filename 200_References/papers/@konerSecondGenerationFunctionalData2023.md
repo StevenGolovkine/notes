@@ -1,10 +1,16 @@
 ---
 category: literaturenote
-tags: multivariate-functional-data, functional-time-series, functional-principal-components, longitudinal-functional-data, spatial-functional-data
+tags:
+  - multivariate-functional-data
+  - functional-time-series
+  - functional-principal-components
+  - longitudinal-functional-data
+  - spatial-functional-data
+  - functional-data-analysis
 citekey: konerSecondGenerationFunctionalData2023
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -32,6 +38,7 @@ dateread:
 > **Pages**:: 547-572    
 >**DOI**:: 10.1146/annurev-statistics-032921-033726    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

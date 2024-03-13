@@ -33,7 +33,7 @@ dateread:
 >     
 > **Pages**:: 401-418    
 >    
->
+>**Smoothing**:: Wavelets
 
 > [!LINK] 
 >

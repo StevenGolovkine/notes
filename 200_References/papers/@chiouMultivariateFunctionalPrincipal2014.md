@@ -1,10 +1,13 @@
 ---
 category: literaturenote
-tags: multivariate-functional-data, functional-principal-components
+tags:
+  - multivariate-functional-data
+  - functional-principal-components
+  - functional-data-analysis
 citekey: chiouMultivariateFunctionalPrincipal2014
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -32,7 +35,7 @@ dateread:
 >     
 > **Pages**:: 1571-1596    
 >    
->
+>**Smoothing**:: Local regression
 
 > [!LINK] 
 >

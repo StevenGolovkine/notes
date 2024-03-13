@@ -1,10 +1,16 @@
 ---
 category: literaturenote
-tags: non-parametric-statistics, functional-principal-components, kernel-smoothing, forecasting, density-estimation
+tags:
+  - non-parametric-statistics
+  - functional-principal-components
+  - kernel-smoothing
+  - forecasting
+  - density-estimation
+  - functional-data-analysis
 citekey: kneipInferenceDensityFamilies2001
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -31,7 +37,7 @@ dateread:
 >     
 > **Pages**:: 519-532    
 >    
->
+>**Smoothing**:: Local regression
 
 > [!LINK] 
 >

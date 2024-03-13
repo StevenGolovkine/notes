@@ -35,7 +35,7 @@ dateread: 2023/11/07
 >     
 > **Pages**:: 1-33    
 >    
->
+> **Smoothing**:: None
 
 > [!LINK] 
 >

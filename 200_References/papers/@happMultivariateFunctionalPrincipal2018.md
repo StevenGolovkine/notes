@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: dimension-reduction, functional-data-analysis, image-analysis, multivariate-functional-data
+tags:
+  - dimension-reduction
+  - functional-data-analysis
+  - image-analysis
+  - multivariate-functional-data
+  - functional-principal-components
 citekey: happMultivariateFunctionalPrincipal2018
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -32,6 +37,7 @@ dateread:
 > **Pages**:: 649-659    
 >**DOI**:: 10.1080/01621459.2016.1273115    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

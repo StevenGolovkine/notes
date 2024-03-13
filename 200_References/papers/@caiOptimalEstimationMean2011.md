@@ -32,6 +32,7 @@ dateread:
 > **Pages**:: 2330-2355    
 >**DOI**:: 10.1214/11-AOS898    
 >
+> **Smoothing**:: Smoothing splines
 
 > [!LINK] 
 >

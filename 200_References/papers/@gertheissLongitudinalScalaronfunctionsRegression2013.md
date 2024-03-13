@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: functional-regression, functional-principal-components, longitudinal-functional-data
+tags:
+  - functional-regression
+  - functional-principal-components
+  - longitudinal-functional-data
+  - functional-data-analysis
 citekey: gertheissLongitudinalScalaronfunctionsRegression2013
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -34,6 +38,7 @@ dateread:
 > **Pages**:: 447-461    
 >**DOI**:: 10.1093/biostatistics/kxs051    
 >
+>**Smoothing**:: FPCA
 
 > [!LINK] 
 >

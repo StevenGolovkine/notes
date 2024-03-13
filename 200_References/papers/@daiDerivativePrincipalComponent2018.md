@@ -35,7 +35,7 @@ dateread: 2023/11/06
 >     
 > **Pages**:: 1583-1609    
 >    
->
+>**Smoothing**:: FPCA
 
 > [!LINK] 
 >

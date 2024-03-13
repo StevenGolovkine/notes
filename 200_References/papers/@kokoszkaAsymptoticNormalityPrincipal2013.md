@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: functional-time-series, functional-principal-components, weak-dependence, asymptotic-theory
+tags:
+  - functional-time-series
+  - functional-principal-components
+  - weak-dependence
+  - asymptotic-theory
+  - functional-data-analysis
 citekey: kokoszkaAsymptoticNormalityPrincipal2013
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -32,6 +37,7 @@ dateread:
 > **Pages**:: 1546-1562    
 >**DOI**:: 10.1016/j.spa.2012.12.011    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

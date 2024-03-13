@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: conformal-prediction, functional-autoregressive-process, functional-time-series, multidimensional-functional-data
+tags:
+  - conformal-prediction
+  - functional-autoregressive-process
+  - functional-time-series
+  - multidimensional-functional-data
+  - "#functional-data-analysis"
 citekey: ajroldiConformalPredictionBands2023
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -33,6 +38,10 @@ dateread:
 >     
 > **Pages**:: 107821    
 >**DOI**:: 10.1016/j.csda.2023.107821    
+>
+> **Smoothing**:: None
+
+
 >
 
 > [!LINK] 

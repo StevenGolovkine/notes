@@ -32,6 +32,7 @@ dateread:
 >    
 >**DOI**:: 10.48550/arXiv.2307.02154    
 >
+>**Smoothing**:: FPCA
 
 > [!LINK] 
 >

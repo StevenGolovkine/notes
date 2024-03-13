@@ -1,10 +1,11 @@
 ---
 category: literaturenote
-tags: mathematics
+tags:
+  - mathematics
 citekey: abramowitzHandbookMathematicalFunctions1965
 itemType: book
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  

@@ -33,6 +33,8 @@ dateread:
 > **Pages**:: 377-392    
 >**DOI**:: 10.1002/for.1169    
 >
+> **Smoothing**:: Local regression
+>
 
 > [!LINK] 
 >

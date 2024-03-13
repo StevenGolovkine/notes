@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: derivatives, functional-principal-components, multidimensional-functional-data
+tags:
+  - derivatives
+  - functional-principal-components
+  - multidimensional-functional-data
+  - functional-data-analysis
 citekey: grithFunctionalPrincipalComponent2018
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -32,8 +36,8 @@ dateread:
 >    
 >     
 > **Pages**:: 2469-2496    
->    
 >
+>**Smoothing**:: Local regression
 
 > [!LINK] 
 >

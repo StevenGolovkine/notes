@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: kernel-models, multivariate-functional-data, review
+tags:
+  - kernel-models
+  - multivariate-functional-data
+  - review
+  - functional-data-analysis
 citekey: alvarezKernelsVectorValuedFunctions2012
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -33,6 +37,7 @@ dateread:
 > **Pages**:: 195–266    
 >**DOI**:: 10.1561/2200000036    
 >
+> **Smoothing**:: RKHS
 
 > [!LINK] 
 >

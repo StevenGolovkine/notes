@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: functional-time-series, central-limit-theorem, weak-dependence, independence-testing
+tags:
+  - functional-time-series
+  - central-limit-theorem
+  - weak-dependence
+  - independence-testing
+  - functional-data-analysis
 citekey: horvathTestingIndependenceFunctional2015
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -32,6 +37,7 @@ dateread:
 > **Pages**:: 371-382    
 >**DOI**:: 10.1016/j.jeconom.2015.03.030    
 >
+>**Smoothing**:: Local regression
 
 > [!LINK] 
 >

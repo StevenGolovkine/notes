@@ -30,7 +30,7 @@ dateread:
 >    
 >     
 >    
->    
+>**Smoothing**:: RKHS    
 >
 
 > [!LINK] 

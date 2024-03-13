@@ -32,6 +32,8 @@ dateread:
 > **Pages**:: 2505-2547    
 >**DOI**:: 10.1214/19-AOS1895    
 >
+> **Smoothing**:: None
+>
 
 > [!LINK] 
 >

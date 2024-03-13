@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: dimension-reduction, functional-time-series, spectral-analysis, functional-principal-components
+tags:
+  - dimension-reduction
+  - functional-time-series
+  - spectral-analysis
+  - functional-principal-components
+  - functional-data-analysis
 citekey: hormannDynamicFunctionalPrincipal2015
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -33,6 +38,7 @@ dateread:
 > **Pages**:: 319-348    
 >**DOI**:: 10.1111/rssb.12076    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

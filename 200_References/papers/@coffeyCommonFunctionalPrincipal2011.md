@@ -34,6 +34,7 @@ dateread:
 > **Pages**:: 1144-1166    
 >**DOI**:: 10.1016/j.humov.2010.11.005    
 >
+>**Smoothing**:: Smoothing splines
 
 > [!LINK] 
 >

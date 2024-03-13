@@ -33,6 +33,7 @@ dateread:
 > **Pages**:: 66-82    
 >**DOI**:: 10.1016/j.jeconom.2013.11.002    
 >
+>**Smoothing**:: Local regression
 
 > [!LINK] 
 >

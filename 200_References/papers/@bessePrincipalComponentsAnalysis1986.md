@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: hilbert-space-theory, functional-principal-components, reproducing-kernel-hilbert-space
+tags:
+  - hilbert-space-theory
+  - functional-principal-components
+  - reproducing-kernel-hilbert-space
+  - "#functional-data-analysis"
 citekey: bessePrincipalComponentsAnalysis1986
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -32,6 +36,7 @@ dateread:
 > **Pages**:: 285-311    
 >**DOI**:: 10.1007/BF02293986    
 >
+> **Smoothing**:: RKHS
 
 > [!LINK] 
 >

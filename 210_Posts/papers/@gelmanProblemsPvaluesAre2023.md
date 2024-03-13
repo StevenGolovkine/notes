@@ -1,10 +1,11 @@
 ---
 category: postsnote
-tags: 
+tags:
+  - "#p-values"
 citekey: gelmanProblemsPvaluesAre2023
 itemType: blogPost
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!SYNTHESIS] 

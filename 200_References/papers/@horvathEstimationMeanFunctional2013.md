@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: functional-time-series, two-sample-problem, mean-function-estimation
+tags:
+  - functional-time-series
+  - two-sample-problem
+  - mean-function-estimation
+  - functional-data-analysis
 citekey: horvathEstimationMeanFunctional2013
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -33,6 +37,7 @@ dateread:
 > **Pages**:: 103-122    
 >**DOI**:: 10.1111/j.1467-9868.2012.01032.x    
 >
+>**Smoothing**:: Local regression
 
 > [!LINK] 
 >

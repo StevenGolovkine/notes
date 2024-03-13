@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: functional-time-series, spectral-analysis, stationarity-analysis, central-limit-theorem
+tags:
+  - functional-time-series
+  - spectral-analysis
+  - stationarity-analysis
+  - central-limit-theorem
+  - functional-data-analysis
 citekey: ceroveckiCLTDiscreteFourier2017
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -32,6 +37,7 @@ dateread:
 > **Pages**:: 282-295    
 >**DOI**:: 10.1016/j.jmva.2016.11.006    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >
