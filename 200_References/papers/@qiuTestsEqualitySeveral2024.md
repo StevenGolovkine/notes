@@ -34,6 +34,7 @@ dateread:
 > **Pages**:: 105243    
 >**DOI**:: 10.1016/j.jmva.2023.105243    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

@@ -31,7 +31,7 @@ dateread:
 >    
 >     
 >    
->    
+>**Smoothing**:: Smoothing splines    
 >
 
 > [!LINK] 

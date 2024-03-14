@@ -33,6 +33,7 @@ dateread:
 > **Pages**:: 225-247    
 >**DOI**:: 10.1093/biomet/asac035    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

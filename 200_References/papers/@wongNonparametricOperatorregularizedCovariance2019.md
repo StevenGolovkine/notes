@@ -32,6 +32,7 @@ dateread:
 > **Pages**:: 131-144    
 >**DOI**:: 10.1016/j.csda.2018.05.013    
 >
+>**Smoothing**:: RKHS
 
 > [!LINK] 
 >

@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: forecasting, functional-principal-components, functional-time-series
+tags:
+  - forecasting
+  - functional-principal-components
+  - functional-time-series
+  - functional-data-analysis
 citekey: paparoditisBootstrapPredictionBands2023
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -32,6 +36,7 @@ dateread:
 > **Pages**:: 972-986    
 >**DOI**:: 10.1080/01621459.2021.1963262    
 >
+>**Smoothing**:: Local regression
 
 > [!LINK] 
 >

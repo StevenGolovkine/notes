@@ -32,6 +32,7 @@ dateread:
 > **Pages**:: 78-89    
 >**DOI**:: 10.1016/j.chemolab.2015.09.018    
 >
+>**Smoothing**:: Smoothing splines
 
 > [!LINK] 
 >

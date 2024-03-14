@@ -32,6 +32,7 @@ dateread:
 > **Pages**:: 1052-1079    
 >**DOI**:: 10.1214/009053606000001505    
 >
+>**Smoothing**:: Local regression
 
 > [!LINK] 
 >

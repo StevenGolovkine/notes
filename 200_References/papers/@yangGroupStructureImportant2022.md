@@ -32,6 +32,7 @@ dateread:
 > **Pages**:: 303-324    
 >**DOI**:: 10.6339/21-JDS1031    
 >
+>**Smoothing**:: FPCA
 
 > [!LINK] 
 >

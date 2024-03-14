@@ -32,6 +32,7 @@ dateread:
 > **Pages**:: 568-603    
 >**DOI**:: 10.1214/13-AOS1086    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

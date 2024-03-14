@@ -32,6 +32,7 @@ dateread:
 > **Pages**:: 569-623    
 >**DOI**:: 10.1016/j.acha.2017.07.003    
 >
+>**Smoothing**:: RKHS
 
 > [!LINK] 
 >

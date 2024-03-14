@@ -21,7 +21,7 @@ dateread:
 **Author**:: Tucker, J. Derek
 **Author**:: Yarger, Drew<br>
 > **Title**:: Elastic functional changepoint detection of climate impacts from localized sources    
-> **Year**:: Error: `format` can only be applied to dates. Tried for format object     
+> **Year**:: 2023
 > **Citekey**:: @tuckerElasticFunctionalChangepoint    
 >**Journal**:: *Environmetrics*    
 >**Volume**:: n/a    
@@ -32,6 +32,7 @@ dateread:
 > **Pages**:: e2826    
 >**DOI**:: 10.1002/env.2826    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

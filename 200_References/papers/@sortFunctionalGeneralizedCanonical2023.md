@@ -37,6 +37,7 @@ dateread:
 >    
 >**DOI**:: 10.48550/arXiv.2310.07330    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

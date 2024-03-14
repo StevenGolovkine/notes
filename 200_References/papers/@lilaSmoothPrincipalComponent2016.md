@@ -33,6 +33,7 @@ dateread:
 > **Pages**:: 1854-1879    
 >**DOI**:: 10.1214/16-AOAS975    
 >
+>**Smoothing**:: Finite element method
 
 > [!LINK] 
 >

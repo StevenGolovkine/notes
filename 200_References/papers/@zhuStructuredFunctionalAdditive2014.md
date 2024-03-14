@@ -32,7 +32,7 @@ dateread:
 >     
 > **Pages**:: 581-603    
 >    
->
+>**Smoothing**:: RKHS
 
 > [!LINK] 
 >

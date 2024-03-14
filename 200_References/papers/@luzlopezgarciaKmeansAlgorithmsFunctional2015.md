@@ -37,6 +37,7 @@ dateread: 2023/11/06
 > **Pages**:: 231-245    
 >**DOI**:: 10.1016/j.neucom.2014.09.048    
 >
+>**Smoothing**:: RKHS
 
 > [!LINK] 
 >

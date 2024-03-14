@@ -24,7 +24,7 @@ dateread:
 **Author**:: Cai, T Tony
 **Author**:: Yuan, Ming<br>
 > **Title**:: Nonparametric Covariance Function Estimation for Functional and Longitudinal Data    
-> **Year**:: Error: `format` can only be applied to dates. Tried for format object     
+> **Year**:: 
 > **Citekey**:: @caiNonparametricCovarianceFunction    
 >
 > **Smoothing**:: RKHS

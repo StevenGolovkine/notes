@@ -3,9 +3,9 @@ category: literaturenote
 tags:
   - clustering
   - curve-registration
-  - functional-data
   - multivariate-functional-data
   - review
+  - functional-data-analysis
 citekey: zhangReviewClusteringMethods2023
 itemType: journalArticle
 status: read
@@ -37,6 +37,7 @@ dateread: 2023/11/07
 > **Pages**:: 91:1–91:34    
 >**DOI**:: 10.1145/3581789    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

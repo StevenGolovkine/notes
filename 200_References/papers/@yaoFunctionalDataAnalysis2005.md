@@ -32,7 +32,7 @@ dateread:
 >     
 > **Pages**:: 577-590    
 >    
->
+>**Smoothing**:: FPCA
 
 > [!LINK] 
 >

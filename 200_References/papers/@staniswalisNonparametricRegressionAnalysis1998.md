@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: kernel-smoothing, longitudinal-data, non-parametric-statistics, principal-components
+tags:
+  - kernel-smoothing
+  - longitudinal-data
+  - non-parametric-statistics
+  - principal-components
+  - functional-data-analysis
 citekey: staniswalisNonparametricRegressionAnalysis1998
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -32,6 +37,7 @@ dateread:
 > **Pages**:: 1403-1418    
 >**DOI**:: 10.2307/2670055    
 >
+>**Smoothing**:: FPCA
 
 > [!LINK] 
 >

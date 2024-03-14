@@ -34,6 +34,7 @@ dateread:
 > **Pages**:: 1521-1542    
 >**DOI**:: 10.1111/rssc.12589    
 >
+>**Smoothing**:: Least-squares estimation
 
 > [!LINK] 
 >

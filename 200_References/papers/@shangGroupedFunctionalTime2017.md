@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: bootstrapping, forecasting, functional-time-series
+tags:
+  - bootstrapping
+  - forecasting
+  - functional-time-series
+  - functional-data-analysis
 citekey: shangGroupedFunctionalTime2017
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -31,6 +35,8 @@ dateread:
 >     
 > **Pages**:: 330-343    
 >**DOI**:: 10.1080/10618600.2016.1237877    
+>
+>**Smoothing**:: P-splines
 >
 
 > [!LINK] 

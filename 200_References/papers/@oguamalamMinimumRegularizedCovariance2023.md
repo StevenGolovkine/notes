@@ -33,6 +33,7 @@ dateread:
 >    
 >**DOI**:: 10.48550/arXiv.2307.13509    
 >
+>**Smoothing**:: RKHS
 
 > [!LINK] 
 >

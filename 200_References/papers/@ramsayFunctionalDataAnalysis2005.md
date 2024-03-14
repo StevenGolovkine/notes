@@ -32,6 +32,8 @@ dateread:
 >    
 >    
 >**ISBN**:: 978-0-387-40080-8 978-0-387-22751-1
+>
+>**Smoothing**:: Smoothing splines
 
 > [!LINK] 
 >

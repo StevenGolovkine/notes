@@ -1,10 +1,16 @@
 ---
 category: literaturenote
-tags: classification, clustering, functional-principal-components, functional-regression, review
+tags:
+  - classification
+  - clustering
+  - functional-principal-components
+  - functional-regression
+  - review
+  - functional-data-analysis
 citekey: wangFunctionalDataAnalysis2016
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -33,6 +39,7 @@ dateread:
 > **Pages**:: 257-295    
 >**DOI**:: 10.1146/annurev-statistics-041715-033624    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

@@ -33,6 +33,7 @@ dateread:
 > **Pages**:: 44-62    
 >**DOI**:: 10.1016/j.ecosta.2020.04.004    
 >
+>**Smoothing**:: None
 
 > [!LINK] 
 >

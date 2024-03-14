@@ -23,7 +23,7 @@ dateread:
 **Author**:: Panzica, Ferruccio
 **Author**:: Sangalli, Laura M.<br>
 > **Title**:: Analyzing data in complicated 3D domains: Smoothing, semiparametric regression, and functional principal component analysis    
-> **Year**:: Error: `format` can only be applied to dates. Tried for format object     
+> **Year**:: 2023
 > **Citekey**:: @arnoneAnalyzingDataComplicated    
 >**Journal**:: *Biometrics*    
 >**Volume**:: n/a    

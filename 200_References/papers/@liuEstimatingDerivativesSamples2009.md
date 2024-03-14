@@ -32,6 +32,7 @@ dateread:
 > **Pages**:: 704-717    
 >**DOI**:: 10.1198/jasa.2009.0115    
 >
+>**Smoothing**:: Local regression
 
 > [!LINK] 
 >

@@ -32,6 +32,7 @@ dateread:
 > **Pages**:: 133-148    
 >**DOI**:: 10.1016/j.csda.2014.05.010    
 >
+>**Smoothing**:: Least-squares estimation
 
 > [!LINK] 
 >

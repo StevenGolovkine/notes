@@ -31,6 +31,7 @@ dateread:
 > **Pages**:: 315-335    
 >**DOI**:: 10.1016/j.jmva.2018.04.006    
 >
+>**Smoothing**:: Local regression
 
 > [!LINK] 
 >

@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: functional-principal-components, multivariate-functional-data, sparse-functional-data
+tags:
+  - functional-principal-components
+  - multivariate-functional-data
+  - sparse-functional-data
+  - functional-data-analysis
 citekey: songSparseMultivariateFunctional2022
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread:
 ---
 
 > [!Cite]  
@@ -32,6 +36,7 @@ dateread:
 > **Pages**:: e435    
 >**DOI**:: 10.1002/sta4.435    
 >
+>**Smoothing**:: Least-squares estimation
 
 > [!LINK] 
 >

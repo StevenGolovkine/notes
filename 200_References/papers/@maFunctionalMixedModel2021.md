@@ -34,6 +34,7 @@ dateread:
 > **Pages**:: 439-454    
 >**DOI**:: 10.1093/biostatistics/kxz046    
 >
+>**Smoothing**:: P-splines
 
 > [!LINK] 
 >
@@ -51,4 +52,4 @@ dateread:
   
 %% end annotations %%
 
-%% Import Date: 2023-10-23T17:17:17.324+01:00 %%
+%% Import Date: 2024-03-13T17:06:20.789+00:00 %%
