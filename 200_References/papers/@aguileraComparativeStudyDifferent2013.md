@@ -35,6 +35,7 @@ dateread:
 >**Smoothing**:: Splines
 >**Aim**:: Smoothing
 >**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

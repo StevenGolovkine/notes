@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.1002/for.1169    
 >
 > **Smoothing**:: Local regression
+> **Aim**:: Prediction
+>**Type**:: Univariate
+>**Dependency**:: Time series
 >
 
 > [!LINK] 

@@ -35,7 +35,9 @@ dateread:
 >**DOI**:: 10.1111/biom.13845    
 >
 > **Smoothing**:: Finite element method
->
+>**Aim**:: Dimension reduction
+>**Type**:: Multidimensional
+>**Dependency**:: None
 
 > [!LINK] 
 >

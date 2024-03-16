@@ -38,6 +38,9 @@ dateread:
 >**DOI**:: 10.1561/2200000036    
 >
 > **Smoothing**:: RKHS
+> **Aim**:: Smoothing
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

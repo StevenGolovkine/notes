@@ -40,6 +40,9 @@ dateread:
 >**DOI**:: 10.1016/j.csda.2023.107821    
 >
 > **Smoothing**:: None
+> **Aim**:: Prediction
+> **Type**:: Multidimensional
+> **Dependency**:: Time series
 
 
 >

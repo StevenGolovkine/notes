@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1007/s11749-015-0471-1    
 >
 > **Smoothing**:: None
+> **Aim**:: Dimension reduction
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

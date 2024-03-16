@@ -38,6 +38,9 @@ dateread:
 >**DOI**:: 10.1214/07-AOS516    
 >
 > **Smoothing**:: FPCA
+> **Aim**:: Testing
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

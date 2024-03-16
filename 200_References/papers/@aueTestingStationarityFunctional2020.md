@@ -33,7 +33,9 @@ dateread:
 >**DOI**:: 10.1214/19-AOS1895    
 >
 > **Smoothing**:: None
->
+>**Aim**:: Testing
+>**Type**:: Univariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >

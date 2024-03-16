@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1007/s11634-023-00542-w    
 >
 > **Smoothing**:: Basis expansion
+> **Aim**:: Clustering
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

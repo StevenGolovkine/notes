@@ -18,8 +18,8 @@ dateread:
 
 > [!METADATA]  
 >
-**Author**:: Allen, Genevera I.<br>
-> **Title**:: Multi-way functional principal components analysis    
+**Author**:: Allen, Genevera I.
+>**Title**:: Multi-way functional principal components analysis    
 > **Year**:: 2013     
 > **Citekey**:: @allenMultiwayFunctionalPrincipal2013    
 >    
