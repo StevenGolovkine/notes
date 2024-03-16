@@ -33,6 +33,8 @@ dateread:
 >**DOI**:: 10.1016/j.mcm.2013.04.007    
 >
 >**Smoothing**:: Splines
+>**Aim**:: Smoothing
+>**Type**:: Univariate
 
 > [!LINK] 
 >
