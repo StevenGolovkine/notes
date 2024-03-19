@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1007/s11222-016-9679-5    
 >
 >**Smoothing**:: Local regression
+>**Aim**:: Dimension reduction
+>**Type**:: Multidimensional
+>**Dependency**:: None
 
 > [!LINK] 
 >

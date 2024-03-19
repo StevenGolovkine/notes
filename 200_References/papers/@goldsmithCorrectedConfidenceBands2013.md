@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.1111/j.1541-0420.2012.01808.x    
 >
 >**Smoothing**:: FPCA
+>**Aim**:: Confidence bands
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

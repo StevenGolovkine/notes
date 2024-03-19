@@ -37,6 +37,9 @@ dateread: 2023/11/06
 > **Pages**:: 281-291    
 >    
 >**Smoothing**:: Least-square estimation
+>**Aim**:: Distance
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

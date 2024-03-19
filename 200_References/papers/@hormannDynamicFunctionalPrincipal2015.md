@@ -39,6 +39,9 @@ dateread:
 >**DOI**:: 10.1111/rssb.12076    
 >
 >**Smoothing**:: None
+>**Aim**:: Dimension reduction
+>**Type**:: Univariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >

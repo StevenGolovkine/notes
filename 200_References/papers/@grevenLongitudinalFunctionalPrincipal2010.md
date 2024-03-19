@@ -35,6 +35,9 @@ dateread:
 >**DOI**:: 10.1214/10-EJS575    
 >
 >**Smoothing**:: P-splines
+>**Aim**:: Dimension reduction
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

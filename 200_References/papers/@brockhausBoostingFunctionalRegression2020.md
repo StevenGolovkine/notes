@@ -40,6 +40,9 @@ dateread:
 >**DOI**:: 10.18637/jss.v094.i10    
 >
 > **Smoothing**:: P-splines
+> **Aim**:: Regression
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

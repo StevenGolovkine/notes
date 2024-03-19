@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.48550/arXiv.2307.02154    
 >
 >**Smoothing**:: FPCA
+>**Aim**:: Smoothing
+>**Type**:: Univariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >

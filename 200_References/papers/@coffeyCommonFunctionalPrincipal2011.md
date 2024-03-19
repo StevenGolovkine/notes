@@ -35,6 +35,9 @@ dateread:
 >**DOI**:: 10.1016/j.humov.2010.11.005    
 >
 >**Smoothing**:: Smoothing splines
+>**Aim**:: Testing
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

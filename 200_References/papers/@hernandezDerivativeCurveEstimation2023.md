@@ -35,6 +35,9 @@ dateread:
 >**DOI**:: 10.1177/1471082X231178078    
 >
 >**Smoothing**:: P-splines
+>**Aim**:: Derivatives
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

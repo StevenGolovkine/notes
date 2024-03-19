@@ -34,6 +34,9 @@ dateread:
 >**ISBN**:: 978-1-4614-3654-6 978-1-4614-3655-3
 >
 >**Smoothing**:: None
+>**Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

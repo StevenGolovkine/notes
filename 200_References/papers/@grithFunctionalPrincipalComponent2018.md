@@ -38,6 +38,9 @@ dateread:
 > **Pages**:: 2469-2496    
 >
 >**Smoothing**:: Local regression
+>**Aim**:: Derivatives
+>**Type**:: Multidimenstional
+>**Dependency**:: None
 
 > [!LINK] 
 >

@@ -30,7 +30,10 @@ dateread:
 >    
 >     
 >    
->**Smoothing**:: RKHS    
+>**Smoothing**:: RKHS
+>**Aim**:: Dimension reduction
+>**Type**:: Univariate
+>**Dependency**:: None
 >
 
 > [!LINK] 

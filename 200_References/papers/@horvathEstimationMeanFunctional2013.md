@@ -38,6 +38,9 @@ dateread:
 >**DOI**:: 10.1111/j.1467-9868.2012.01032.x    
 >
 >**Smoothing**:: Local regression
+>**Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >

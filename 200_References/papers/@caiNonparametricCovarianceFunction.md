@@ -28,6 +28,9 @@ dateread:
 > **Citekey**:: @caiNonparametricCovarianceFunction    
 >
 > **Smoothing**:: RKHS
+> **Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: None
 
 
 > [!LINK] 

@@ -39,6 +39,9 @@ dateread:
 >**DOI**:: 10.1080/10618600.2022.2115500    
 >
 >**Smoothing**:: P-splines
+>**Aim**:: Dimension reduction
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.1016/j.jeconom.2013.11.002    
 >
 >**Smoothing**:: Local regression
+>**Aim**:: Testing
+>**Type**:: Univariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >

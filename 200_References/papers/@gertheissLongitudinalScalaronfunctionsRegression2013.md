@@ -39,6 +39,9 @@ dateread:
 >**DOI**:: 10.1093/biostatistics/kxs051    
 >
 >**Smoothing**:: FPCA
+>**Aim**:: Regression
+>**Type**:: Multivariate
+>**Dependency**:: Repeated data
 
 > [!LINK] 
 >

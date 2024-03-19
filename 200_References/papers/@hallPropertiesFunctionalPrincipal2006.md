@@ -32,6 +32,9 @@ dateread:
 > **Pages**:: 109-126    
 >    
 >**Smoothing**:: None
+>**Aim**:: Dimension reduction
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

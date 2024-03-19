@@ -37,6 +37,9 @@ dateread:
 >**DOI**:: 10.1007/BF02293986    
 >
 > **Smoothing**:: RKHS
+> **Aim**:: Dimension reduction
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

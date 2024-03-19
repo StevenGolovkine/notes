@@ -38,6 +38,9 @@ dateread:
 >**DOI**:: 10.1016/j.jmva.2016.11.006    
 >
 >**Smoothing**:: None
+>**Aim**:: Theory
+>**Type**:: Univariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >

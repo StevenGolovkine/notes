@@ -40,6 +40,9 @@ dateread:
 >**DOI**:: 10.1016/j.csda.2021.107376 
 >
 >**Smoothing**:: Local regression
+>**Aim**:: Clustering
+>**Type**:: Multivariate
+>**Dependency**:: None
 >
 
 > [!LINK] 

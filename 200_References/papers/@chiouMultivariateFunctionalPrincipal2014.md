@@ -36,6 +36,9 @@ dateread:
 > **Pages**:: 1571-1596    
 >    
 >**Smoothing**:: Local regression
+>**Aim**:: Dimension reduction
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1214/11-AOS898    
 >
 > **Smoothing**:: Smoothing splines
+> **Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >
