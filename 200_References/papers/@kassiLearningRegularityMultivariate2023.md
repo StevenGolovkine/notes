@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.48550/arXiv.2307.14163    
 >
 >**Smoothing**:: Local regression
+>**Aim**:: Estimation
+>**Type**:: Multidimensional
+>**Dependency**:: None
 
 > [!LINK] 
 >

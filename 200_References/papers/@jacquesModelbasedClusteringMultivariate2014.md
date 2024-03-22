@@ -37,7 +37,9 @@ dateread:
 >**DOI**:: 10.1016/j.csda.2012.12.004    
 >
 >**Smoothing**:: None
->
+>**Aim**:: Clustering
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

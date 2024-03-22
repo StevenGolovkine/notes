@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1002/sta4.557    
 >
 >**Smoothing**:: None
+>**Aim**:: Clustering
+>**Type**:: Spherical
+>**Dependency**:: None
 
 > [!LINK] 
 >

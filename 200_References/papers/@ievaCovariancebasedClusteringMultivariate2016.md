@@ -36,6 +36,9 @@ dateread: 2023/11/07
 > **Pages**:: 1-21    
 >    
 >**Smoothing**:: Linear shrinkage estimator
+>**Aim**:: Clustering
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

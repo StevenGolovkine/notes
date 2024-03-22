@@ -34,6 +34,9 @@ dateread:
 > **Pages**:: 401-418    
 >    
 >**Smoothing**:: Wavelets
+>**Aim**:: Clustering
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

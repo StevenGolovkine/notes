@@ -38,6 +38,9 @@ dateread:
 > **Pages**:: 519-532    
 >    
 >**Smoothing**:: Local regression
+>**Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

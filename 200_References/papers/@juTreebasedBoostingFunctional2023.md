@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1007/s00180-023-01364-2    
 >
 >**Smoothing**:: None
+>**Aim**:: Regression
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >
