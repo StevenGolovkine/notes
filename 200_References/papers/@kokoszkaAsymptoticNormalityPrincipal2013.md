@@ -38,6 +38,9 @@ dateread:
 >**DOI**:: 10.1016/j.spa.2012.12.011    
 >
 >**Smoothing**:: None
+>**Aim**:: Theory
+>**Type**:: Univariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >

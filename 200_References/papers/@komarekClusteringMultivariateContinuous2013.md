@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1214/12-AOAS580    
 >
 >**Smoothing**:: None
+>**Aim**:: Clustering
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >
