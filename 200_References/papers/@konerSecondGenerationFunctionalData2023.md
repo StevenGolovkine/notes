@@ -39,6 +39,9 @@ dateread:
 >**DOI**:: 10.1146/annurev-statistics-032921-033726    
 >
 >**Smoothing**:: None
+>**Aim**:: Review
+>**Type**:: Multivariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >

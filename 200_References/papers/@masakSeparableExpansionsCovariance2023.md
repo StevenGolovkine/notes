@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.1093/biomet/asac035    
 >
 >**Smoothing**:: None
+>**Aim**:: Estimation
+>**Type**:: Multidimensional
+>**Dependency**:: None
 
 > [!LINK] 
 >

@@ -35,6 +35,9 @@ dateread:
 >**DOI**:: 10.1093/biostatistics/kxz046    
 >
 >**Smoothing**:: P-splines
+>**Aim**:: Regression
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

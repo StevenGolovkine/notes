@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.1214/16-AOAS975    
 >
 >**Smoothing**:: Finite element method
+>**Aim**:: Dimension reduction
+>**Type**:: Multidimensional
+>**Dependency**:: None
 
 > [!LINK] 
 >

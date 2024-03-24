@@ -35,6 +35,9 @@ dateread:
 >**DOI**:: 10.1007/s10994-022-06172-1    
 >
 >**Smoothing**:: None
+>**Aim**:: Prediction
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

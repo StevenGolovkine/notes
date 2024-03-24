@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.1002/sta4.245    
 >
 >**Smoothing**:: P-splines
+>**Aim**:: Estimation
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >
