@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.48550/arXiv.2307.09404    
 >
 >**Smoothing**:: None
+>**Aim**:: Dimension reduction
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

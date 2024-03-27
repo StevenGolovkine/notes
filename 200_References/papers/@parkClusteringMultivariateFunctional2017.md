@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1111/biom.12546    
 >
 >**Smoothing**:: None
+>**Aim**:: Clustering
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

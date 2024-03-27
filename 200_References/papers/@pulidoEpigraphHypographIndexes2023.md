@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.48550/arXiv.2307.16720    
 >
 >**Smoothing**:: None
+>**Aim**:: Clustering
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

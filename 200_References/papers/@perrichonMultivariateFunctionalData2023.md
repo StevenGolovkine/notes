@@ -32,7 +32,9 @@ dateread:
 >     
 >    
 >**Smoothing**:: Smoothing splines    
->
+>**Aim**:: Testing
+>**Type**:: Multivariate
+>**Dependency**:: None>
 
 > [!LINK] 
 >

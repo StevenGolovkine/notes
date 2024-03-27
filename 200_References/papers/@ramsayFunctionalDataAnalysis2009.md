@@ -35,6 +35,9 @@ dateread:
 >**ISBN**:: 978-0-387-98184-0 978-0-387-98185-7
 >
 >**Smoothing**:: Smoothing splines
+>**Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

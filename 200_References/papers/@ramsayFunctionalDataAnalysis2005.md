@@ -34,6 +34,9 @@ dateread:
 >**ISBN**:: 978-0-387-40080-8 978-0-387-22751-1
 >
 >**Smoothing**:: Smoothing splines
+>**Aim**:: Theory
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

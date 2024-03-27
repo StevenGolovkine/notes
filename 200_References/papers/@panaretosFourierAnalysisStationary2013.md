@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1214/13-AOS1086    
 >
 >**Smoothing**:: None
+>**Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >

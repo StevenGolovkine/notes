@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1007/s11222-023-10299-z    
 >
 >**Smoothing**:: Smoothing splines
+>**Aim**:: Regression
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

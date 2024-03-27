@@ -35,6 +35,9 @@ dateread:
 >**DOI**:: 10.1016/j.jmva.2023.105243    
 >
 >**Smoothing**:: None
+>**Aim**:: Testing
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >
