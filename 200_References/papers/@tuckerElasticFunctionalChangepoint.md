@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1002/env.2826    
 >
 >**Smoothing**:: None
+>**Aim**:: Anomaly detection
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

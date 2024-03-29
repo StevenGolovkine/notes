@@ -37,6 +37,9 @@ dateread:
 >**DOI**:: 10.1002/sta4.435    
 >
 >**Smoothing**:: Least-squares estimation
+>**Aim**:: Dimension reduction
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

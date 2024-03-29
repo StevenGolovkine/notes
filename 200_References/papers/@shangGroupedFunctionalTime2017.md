@@ -37,7 +37,10 @@ dateread:
 >**DOI**:: 10.1080/10618600.2016.1237877    
 >
 >**Smoothing**:: P-splines
->
+>**Aim**:: Prediction
+>**Type**:: Univariate
+>**Dependency**:: Time Series
+
 
 > [!LINK] 
 >

@@ -37,6 +37,9 @@ dateread:
 >**Aim**:: Dimension reduction
 >**Type**:: Univariate
 >**Dependency**:: None
+>**Aim**:: Dimension reduction
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

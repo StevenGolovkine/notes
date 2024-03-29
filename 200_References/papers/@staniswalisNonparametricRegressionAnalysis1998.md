@@ -38,6 +38,9 @@ dateread:
 >**DOI**:: 10.2307/2670055    
 >
 >**Smoothing**:: FPCA
+>**Aim**:: Regression
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

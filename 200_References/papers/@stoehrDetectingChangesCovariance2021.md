@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.1016/j.ecosta.2020.04.004    
 >
 >**Smoothing**:: None
+>**Aim**:: Anomaly detection
+>**Type**:: Univariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >

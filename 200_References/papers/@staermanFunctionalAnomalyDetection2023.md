@@ -37,6 +37,9 @@ dateread:
 >**DOI**:: 10.1007/s41060-022-00366-5    
 >
 >**Smoothing**:: None
+>**Aim**:: Anomaly detection
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1016/j.chemolab.2015.09.018    
 >
 >**Smoothing**:: Smoothing splines
+>**Aim**:: Dimension reduction
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

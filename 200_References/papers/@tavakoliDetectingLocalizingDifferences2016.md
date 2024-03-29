@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1080/01621459.2016.1147355    
 >
 >**Smoothing**:: None
+>**Aim**:: Anomaly detection
+>**Type**:: Univariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >
