@@ -40,6 +40,9 @@ dateread:
 >**DOI**:: 10.1146/annurev-statistics-041715-033624    
 >
 >**Smoothing**:: None
+>**Aim**:: Review
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >
