@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.1080/01621459.2020.1820344    
 >
 >**Smoothing**:: RKHS
+>**Aim**:: Estimation
+>**Type**:: Multidimensional
+>**Dependency**:: None
 
 > [!LINK] 
 >
