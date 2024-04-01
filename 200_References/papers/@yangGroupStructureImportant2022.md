@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.6339/21-JDS1031    
 >
 >**Smoothing**:: FPCA
+>**Aim**:: Testing
+>**Type**:: Univariate
+>**Dependency**:: Time series
 
 > [!LINK] 
 >

@@ -27,12 +27,11 @@ dateread:
 >    
 >    
 >  **Smoothing**:: None
+>**Aim**:: Testing
+>**Type**:: Univariate
+>**Dependency**:: Spatial
 >    
->    
->     
->    
->    
->
+
 
 > [!LINK] 
 >

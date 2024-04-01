@@ -32,6 +32,9 @@ dateread:
 >**DOI**:: 10.1109/CAMSAP.2013.6714047    
 >
 > **Smoothing**:: None
+> **Aim**:: Dimension reduction
+>**Type**:: Multidimensional
+>**Dependency**:: None
 
 > [!LINK] 
 >

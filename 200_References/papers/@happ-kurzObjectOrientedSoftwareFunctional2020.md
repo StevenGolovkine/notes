@@ -32,6 +32,9 @@ dateread:
 >**DOI**:: 10.18637/jss.v093.i05    
 >
 >**Smoothing**:: None
+>**Aim**:: Software
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

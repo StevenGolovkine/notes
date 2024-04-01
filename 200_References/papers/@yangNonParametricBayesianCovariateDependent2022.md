@@ -35,6 +35,9 @@ dateread:
 >**DOI**:: 10.1111/rssc.12589    
 >
 >**Smoothing**:: Least-squares estimation
+>**Aim**:: Clustering
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

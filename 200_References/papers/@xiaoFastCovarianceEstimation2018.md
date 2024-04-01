@@ -35,6 +35,9 @@ dateread:
 >**DOI**:: 10.1007/s11222-017-9744-8    
 >
 >**Smoothing**:: P-splines
+>**Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

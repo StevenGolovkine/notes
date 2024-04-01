@@ -29,7 +29,10 @@ dateread:
 >    
 >     
 >    
->**Smoothing**:: P-splines    
+>**Smoothing**:: P-splines 
+>**Aim**:: Regression
+>**Type**:: Multivariate
+>**Dependency**:: None   
 >
 
 > [!LINK] 

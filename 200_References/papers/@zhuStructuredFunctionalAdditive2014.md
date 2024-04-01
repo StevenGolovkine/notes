@@ -33,6 +33,9 @@ dateread:
 > **Pages**:: 581-603    
 >    
 >**Smoothing**:: RKHS
+>**Aim**:: Regression
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

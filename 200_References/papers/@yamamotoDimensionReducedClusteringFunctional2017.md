@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1007/s00357-017-9232-z    
 >
 >**Smoothing**:: None
+>**Aim**:: Clustering
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

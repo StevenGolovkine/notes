@@ -33,6 +33,9 @@ dateread:
 > **Pages**:: 577-590    
 >    
 >**Smoothing**:: FPCA
+>**Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

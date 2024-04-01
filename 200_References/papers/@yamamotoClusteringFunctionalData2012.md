@@ -32,6 +32,9 @@ dateread:
 >**DOI**:: 10.1007/s11634-012-0113-3    
 >
 >**Smoothing**:: Smoothing splines
+>**Aim**:: Clustering
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

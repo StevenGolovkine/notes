@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.1111/rssb.12007    
 >
 >**Smoothing**:: P-splines
+>**Aim**:: Smoothing
+>**Type**:: Multidimensional
+>**Dependency**:: None
 
 > [!LINK] 
 >

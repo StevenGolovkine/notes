@@ -32,6 +32,9 @@ dateread:
 >**DOI**:: 10.48550/arXiv.2101.11003    
 >
 >**Smoothing**:: None
+>**Aim**:: Software
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

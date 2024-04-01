@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.1080/01621459.2017.1411268    
 >
 >**Smoothing**:: RKHS
+>**Aim**:: Regression
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

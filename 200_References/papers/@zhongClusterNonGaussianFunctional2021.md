@@ -34,6 +34,9 @@ dateread:
 >**DOI**:: 10.1111/biom.13349    
 >
 >**Smoothing**:: FPCA
+>**Aim**:: Clustering
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

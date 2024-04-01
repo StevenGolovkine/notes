@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1016/j.acha.2017.07.003    
 >
 >**Smoothing**:: RKHS
+>**Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

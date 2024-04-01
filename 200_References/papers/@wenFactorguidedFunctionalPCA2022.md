@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.48550/arXiv.2211.12012    
 >
 >**Smoothing**:: FPCA
+>**Aim**:: Dimension reduction
+>**Type**:: Multivariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

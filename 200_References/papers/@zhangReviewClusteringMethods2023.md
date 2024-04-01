@@ -38,6 +38,9 @@ dateread: 2023/11/07
 >**DOI**:: 10.1145/3581789    
 >
 >**Smoothing**:: None
+>**Aim**:: Clustering
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

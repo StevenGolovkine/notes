@@ -32,6 +32,9 @@ dateread:
 >**DOI**:: 10.1007/BF02293704    
 >
 >**Smoothing**:: None
+>**Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

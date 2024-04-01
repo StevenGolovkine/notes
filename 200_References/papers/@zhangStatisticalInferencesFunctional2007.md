@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1214/009053606000001505    
 >
 >**Smoothing**:: Local regression
+>**Aim**:: Estimation
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

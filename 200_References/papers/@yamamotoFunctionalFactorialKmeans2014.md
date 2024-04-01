@@ -33,6 +33,9 @@ dateread:
 >**DOI**:: 10.1016/j.csda.2014.05.010    
 >
 >**Smoothing**:: Least-squares estimation
+>**Aim**:: Clustering
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >

@@ -32,6 +32,9 @@ dateread:
 >**DOI**:: 10.48550/arXiv.2206.12525    
 >
 >**Smoothing**:: None
+>**Aim**:: Causality
+>**Type**:: Univariate
+>**Dependency**:: None
 
 > [!LINK] 
 >
