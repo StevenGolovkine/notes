@@ -13,6 +13,6 @@ TABLE
 	Smoothing as Smoothing,
 	Contribution as Contribution
 FROM "200_References/papers" AND #functional-data-analysis
-SORT Author
+SORT Year
 ```
  

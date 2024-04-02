@@ -15,7 +15,7 @@ dateread:
 >
 **Author**:: Rota, Gian-Carlo<br>
 > **Title**:: Ten Lessons I Wish I Had Been Taught    
-> **Year**:: Error: `format` can only be applied to dates. Tried for format object     
+> **Year**:: 2023
 > **Citekey**:: @rotaTenLessonsWish    
 >   
 >**Accessed**:: 2024-03-13   

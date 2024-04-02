@@ -24,7 +24,7 @@ dateread:
 **Author**:: Cai, T Tony
 **Author**:: Yuan, Ming<br>
 > **Title**:: Nonparametric Covariance Function Estimation for Functional and Longitudinal Data    
-> **Year**:: 
+> **Year**:: 2011
 > **Citekey**:: @caiNonparametricCovarianceFunction    
 >
 > **Smoothing**:: RKHS
