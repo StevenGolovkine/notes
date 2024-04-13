@@ -28,4 +28,3 @@ dateread:
 
 > [!Cite]  
 > Gill, Jacquelyn. 2018. “Five Common Writing Mistakes New Scientists Make.” _The Contemplative Mammoth_ (blog). August 21, 2018. [https://contemplativemammoth.com/2018/08/21/five-common-writing-mistakes-new-scientists-make/](https://contemplativemammoth.com/2018/08/21/five-common-writing-mistakes-new-scientists-make/).
-
