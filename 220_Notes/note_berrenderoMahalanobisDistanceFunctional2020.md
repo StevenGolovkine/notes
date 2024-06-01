@@ -58,5 +58,3 @@ Proposed applications:
 - Outliers detection
 - Binary classification
 
-
-
