@@ -57,3 +57,4 @@ Properties of the proposed distance:
 Proposed applications:
 - Outliers detection
 - Binary classification
+
