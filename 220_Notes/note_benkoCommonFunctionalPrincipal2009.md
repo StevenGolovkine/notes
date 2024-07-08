@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@benkoCommonFunctionalPrincipal2009]]"
+File: "[[benkoCommonFunctionalPrincipal2009]]"
 itemType: note
 Status: read
 Date first pass: 27/11/2023

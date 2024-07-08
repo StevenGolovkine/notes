@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@grithFunctionalPrincipalComponent2018]]"
+File: "[[grithFunctionalPrincipalComponent2018]]"
 itemType: note
 Status: read
 Date first pass: 20/11/2023

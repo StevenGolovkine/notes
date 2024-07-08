@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@berrenderoMahalanobisDistanceFunctional2020]]"
+File: "[[berrenderoMahalanobisDistanceFunctional2020]]"
 itemType: note
 Status: read
 Date first pass: 02/11/2023

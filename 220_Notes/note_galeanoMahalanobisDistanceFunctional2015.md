@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@galeanoMahalanobisDistanceFunctional2015]]"
+File: "[[galeanoMahalanobisDistanceFunctional2015]]"
 itemType: note
 Status: read
 Date first pass: 31/10/2023

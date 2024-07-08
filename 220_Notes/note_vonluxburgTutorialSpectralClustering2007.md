@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@vonluxburgTutorialSpectralClustering2007]]"
+File: "[[vonluxburgTutorialSpectralClustering2007]]"
 itemType: note
 Status: read
 Date first pass: 30/11/2023

@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@daiDerivativePrincipalComponent2018]]"
+File: "[[daiDerivativePrincipalComponent2018]]"
 itemType: note
 Status: read
 Date first pass: 06/11/2023

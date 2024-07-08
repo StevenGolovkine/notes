@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@wangFaultDetectionBatch2015]]"
+File: "[[wangFaultDetectionBatch2015]]"
 itemType: note
 Status: read
 Date first pass: 30/11/2023

@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@ievaCovariancebasedClusteringMultivariate2016]]"
+File: "[[ievaCovariancebasedClusteringMultivariate2016]]"
 itemType: note
 Status: unread
 Date first pass: 07/11/2023

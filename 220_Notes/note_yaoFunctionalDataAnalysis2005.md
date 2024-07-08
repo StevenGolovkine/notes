@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@yaoFunctionalDataAnalysis2005]]"
+File: "[[yaoFunctionalDataAnalysis2005]]"
 itemType: note
 Status: read
 Date first pass: 27/11/2023

@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@banfieldModelBasedGaussianNonGaussian1993]]"
+File: "[[banfieldModelBasedGaussianNonGaussian1993]]"
 itemType: note
 Status: read
 Date first pass: 27/11/2023

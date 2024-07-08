@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@zhangReviewClusteringMethods2023]]"
+File: "[[zhangReviewClusteringMethods2023]]"
 itemType: note
 Status: read
 Date first pass: 31/10/2023

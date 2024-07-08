@@ -1,6 +1,6 @@
 ---
 category: readingnote
-File: "[[@liuEstimatingDerivativesSamples2009]]"
+File: "[[liuEstimatingDerivativesSamples2009]]"
 itemType: note
 Status: read
 Date first pass: 27/11/2023
