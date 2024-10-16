@@ -29,4 +29,3 @@ where $\varepsilon_{im}$ is an independent (centered) error variable. The notati
 
 
 From [[@kallianpurStochasticFilteringTheory1980]], *In statistical problems of prediction and filtering it is important to have a useful mathematical model of a "white noise" process. In the case of problems involving discrete time (that is, when $T$ is at most countably infinite), white noise (or Gaussian white noise) can simply be taken to be a sequence of independent, identically distributed (Gaussian) random variables. In view of Example 1.2.5, one has to look elsewhere for an appropriate model of a white noise process. The Wiener process turns out to be a convenient and versatile model when the noise is Gaussian. Other models of white noise [...] have been considered in the literature (such as generalized processes or finitely additive white noise measures) [...].*
-
