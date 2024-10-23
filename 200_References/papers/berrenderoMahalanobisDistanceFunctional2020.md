@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: functional-data-analysis, reproducing-kernel-hilbert-space, mahalanobis-distance
+tags:
+  - functional-data-analysis
+  - reproducing-kernel-hilbert-space
+  - mahalanobis-distance
 citekey: berrenderoMahalanobisDistanceFunctional2020
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_berrenderoMahalanobisDistanceFunctional2020]]"
 ---
 
 > [!Cite]  

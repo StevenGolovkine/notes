@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: functional-data-analysis, functional-principal-components, classification, mahalanobis-distance
+tags:
+  - functional-data-analysis
+  - functional-principal-components
+  - classification
+  - mahalanobis-distance
 citekey: galeanoMahalanobisDistanceFunctional2015
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_galeanoMahalanobisDistanceFunctional2015]]"
 ---
 
 > [!Cite]  

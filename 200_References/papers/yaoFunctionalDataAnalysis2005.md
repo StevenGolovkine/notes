@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: functional-data-analysis, functional-principal-components, sparse-functional-data
+tags:
+  - functional-data-analysis
+  - functional-principal-components
+  - sparse-functional-data
 citekey: yaoFunctionalDataAnalysis2005
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_yaoFunctionalDataAnalysis2005]]"
 ---
 
 > [!Cite]  

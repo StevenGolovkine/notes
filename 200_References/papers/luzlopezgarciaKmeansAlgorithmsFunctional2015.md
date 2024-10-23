@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: dimension-reduction, functional-data-analysis, reproducing-kernel-hilbert-space, clustering
+tags:
+  - dimension-reduction
+  - functional-data-analysis
+  - reproducing-kernel-hilbert-space
+  - clustering
 citekey: luzlopezgarciaKmeansAlgorithmsFunctional2015
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_luzlopezgarciaKmeansAlgorithmsFunctional2015]]"
 ---
 
 > [!Cite]  

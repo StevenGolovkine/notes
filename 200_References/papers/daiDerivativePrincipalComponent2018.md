@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: functional-data-analysis, functional-principal-components, derivatives-estimation
+tags:
+  - functional-data-analysis
+  - functional-principal-components
+  - derivatives-estimation
 citekey: daiDerivativePrincipalComponent2018
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_daiDerivativePrincipalComponent2018]]"
 ---
 
 > [!Cite]  

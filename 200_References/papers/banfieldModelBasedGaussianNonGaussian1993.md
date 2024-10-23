@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: clustering, model-based-clustering, functional-magnetic-resonance-imaging, non-gaussian-model
+tags:
+  - clustering
+  - model-based-clustering
+  - functional-magnetic-resonance-imaging
+  - non-gaussian-model
 citekey: banfieldModelBasedGaussianNonGaussian1993
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_banfieldModelBasedGaussianNonGaussian1993]]"
 ---
 
 > [!Cite]  

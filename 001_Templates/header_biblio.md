@@ -5,6 +5,7 @@ citekey: {{citekey}}
 itemType: {{itemType}}
 status: unread  
 dateread:  
+note: 
 ---
 
 > [!Cite]  

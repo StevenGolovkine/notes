@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: functional-data-analysis, non-parametric-statistics, functional-principal-components, two-sample-problem
+tags:
+  - functional-data-analysis
+  - non-parametric-statistics
+  - functional-principal-components
+  - two-sample-problem
 citekey: benkoCommonFunctionalPrincipal2009
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_benkoCommonFunctionalPrincipal2009]]"
 ---
 
 > [!Cite]  

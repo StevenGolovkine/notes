@@ -1,10 +1,16 @@
 ---
 category: literaturenote
-tags: functional-data-analysis, functional-principal-components, smoothness, sparse-functional-data, derivatives-estimation
+tags:
+  - functional-data-analysis
+  - functional-principal-components
+  - smoothness
+  - sparse-functional-data
+  - derivatives-estimation
 citekey: liuEstimatingDerivativesSamples2009
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_liuEstimatingDerivativesSamples2009]]"
 ---
 
 > [!Cite]  

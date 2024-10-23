@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: functional-data-analysis, clustering, covariance-operator-estimation
+tags:
+  - functional-data-analysis
+  - clustering
+  - covariance-operator-estimation
 citekey: ievaCovariancebasedClusteringMultivariate2016
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_ievaCovariancebasedClusteringMultivariate2016]]"
 ---
 
 > [!Cite]  

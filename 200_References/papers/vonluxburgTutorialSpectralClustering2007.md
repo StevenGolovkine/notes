@@ -1,10 +1,14 @@
 ---
 category: literaturenote
-tags: spectral-analysis, clustering, graphs
+tags:
+  - spectral-analysis
+  - clustering
+  - graphs
 citekey: vonluxburgTutorialSpectralClustering2007
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_vonluxburgTutorialSpectralClustering2007]]"
 ---
 
 > [!Cite]  

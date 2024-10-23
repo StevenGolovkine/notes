@@ -1,10 +1,17 @@
 ---
 category: literaturenote
-tags: functional-data-analysis, multivariate-functional-data, functional-principal-components, kernel-models, fault-detection, process-monitoring
+tags:
+  - functional-data-analysis
+  - multivariate-functional-data
+  - functional-principal-components
+  - kernel-models
+  - fault-detection
+  - process-monitoring
 citekey: wangFaultDetectionBatch2015
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_wangFaultDetectionBatch2015]]"
 ---
 
 > [!Cite]  

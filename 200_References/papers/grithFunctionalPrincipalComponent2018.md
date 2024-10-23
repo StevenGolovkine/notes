@@ -1,10 +1,15 @@
 ---
 category: literaturenote
-tags: functional-data-analysis, functional-principal-components, multidimensional-functional-data, derivatives-estimation
+tags:
+  - functional-data-analysis
+  - functional-principal-components
+  - multidimensional-functional-data
+  - derivatives-estimation
 citekey: grithFunctionalPrincipalComponent2018
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_grithFunctionalPrincipalComponent2018]]"
 ---
 
 > [!Cite]  

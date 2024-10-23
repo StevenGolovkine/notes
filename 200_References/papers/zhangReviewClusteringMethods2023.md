@@ -1,10 +1,16 @@
 ---
 category: literaturenote
-tags: multivariate-functional-data, clustering, review, curve-registration, functional-data
+tags:
+  - multivariate-functional-data
+  - clustering
+  - review
+  - curve-registration
+  - functional-data
 citekey: zhangReviewClusteringMethods2023
 itemType: journalArticle
-status: unread  
-dateread:  
+status: unread
+dateread: 
+note: "[[note_zhangReviewClusteringMethods2023]]"
 ---
 
 > [!Cite]  

@@ -7,6 +7,7 @@ TABLE
 	Year as Year,  
 	itemType as Item,   
 	Citekey as Citekey,
+	note as Note,
 	Aim as Aim,
 	Type as Type,
 	Dependency as Dependence,
