@@ -6,8 +6,8 @@ Status: read
 Date first pass: 23/10/2024
 Date second pass: 
 Date third pass: 
-Clarity: 
-Rank: 
+Clarity: ⭐️⭐️⭐️⭐️
+Rank: ⭐️⭐️⭐️
 Figure to add: 
 VUE do: false
 VUE done: false
