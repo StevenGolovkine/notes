@@ -1,11 +1,14 @@
 ---
 category: literaturenote
-tags: bayesian-analysis, sport-science, basketball
+tags:
+  - bayesian-analysis
+  - sport-science
+  - basketball
 citekey: jiaoBayesianMarkedSpatial2021
 itemType: journalArticle
-status: unread  
-dateread:  
-note: 
+status: unread
+dateread: 
+note: "[[note_jiaoBayesianMarkedSpatial2021]]"
 ---
 
 > [!Cite]  

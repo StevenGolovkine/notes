@@ -1,11 +1,13 @@
 ---
 category: literaturenote
-tags: basketball, point-processes
+tags:
+  - basketball
+  - point-processes
 citekey: yinBayesianNonparametricLearning2022
 itemType: conferencePaper
-status: unread  
-dateread:  
-note: 
+status: unread
+dateread: 
+note: "[[note_yinBayesianNonparametricLearning2022]]"
 ---
 
 > [!Cite]  

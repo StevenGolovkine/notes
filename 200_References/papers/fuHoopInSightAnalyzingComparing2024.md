@@ -1,11 +1,13 @@
 ---
 category: literaturenote
-tags: data-visualisation, basketball
+tags:
+  - data-visualisation
+  - basketball
 citekey: fuHoopInSightAnalyzingComparing2024
 itemType: journalArticle
-status: unread  
-dateread:  
-note: 
+status: unread
+dateread: 
+note: "[[note_fuHoopInSightAnalyzingComparing2024]]"
 ---
 
 > [!Cite]  
