@@ -40,4 +40,3 @@ New approach on players' position
 # Summary and contributions
 
 The query examines differences in game-related statistics between basketball guards, forwards, and centres playing in three professional leagues (NBA, ACB, and LCB). The goal is to identify patterns that can help coaches establish and monitor playing patterns, as well as improve player recruitment and training programs. The analysis uses discriminant functions to identify statistics that maximize mean differences between playing positions. The results show that players' game-related statistics vary according to their position, with emphasis on different tasks such as defensive/ offensive rebounds, assists, blocks, and 3-point field-goals.
-
