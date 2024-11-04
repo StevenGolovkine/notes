@@ -12,7 +12,7 @@
 		{"id":"e474a7d2147e5107","x":1113,"y":306,"width":250,"height":60,"type":"text","text":"Tensor product models\n[[20240228143935_tensor_product_models]]\n"},
 		{"id":"ab01b1a332d14cd4","x":756,"y":306,"width":250,"height":60,"type":"text","text":"Multidimensional P-splines\n"},
 		{"id":"0cf69ac1b4bf1a98","x":756,"y":520,"width":250,"height":60,"type":"text","text":"Multidimensional penalty\n[[20240229103151_multidimensional_penalty]]"},
-		{"id":"e3f290b27ec34961","x":1113,"y":420,"width":250,"height":60,"type":"text","text":"Array algorithms\n[[20240229141036_array_algorithms]]"}
+		{"id":"e3f290b27ec34961","x":1113,"y":420,"width":250,"height":60,"type":"text","text":"Array algorithms\n[[20241104133007_array_algorithms]]"}
 	],
 	"edges":[
 		{"id":"81d016b9d7c10040","fromNode":"301051ed3ef96801","fromSide":"right","toNode":"a7b8b5b77e674da9","toSide":"left"},
