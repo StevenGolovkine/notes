@@ -16,4 +16,3 @@ $$x(t) = Ce^{-\beta t}, \quad C \neq 0$$
 We can use any positive constant (different from $1$) to replace $e$, e.g. $10$ or $2$. The solution exhibits exponential decay when $\beta >0$ and exponential growth when $\beta < 0$.
 
 Corresponding operator equation: $Lx = \beta x + Dx = 0$. The solution space of the equation is the *kernel* of $L$.
-
