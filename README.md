@@ -2,7 +2,6 @@
 
 This folder gathers some notes about my work.
 
-
 ⌘⌥N: New notes from templates
 ⌘⌥R: Add header reading
 ⌘⌥Z: Add header zettel
