@@ -8,3 +8,5 @@ This folder gathers some notes about my work.
 
 ⌘⌥L: Add litterature note from Zotero
 ⌘⌥P: Add post note from Zotero
+
+
