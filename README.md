@@ -1,5 +1,6 @@
 # Some notes
 
+
 This folder gathers some notes about my work.
 
 ⌘⌥N: New notes from templates
